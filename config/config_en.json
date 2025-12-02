@@ -1,4 +1,3 @@
-
 {
   "HorizonLayout": [
 
@@ -1465,13 +1464,13 @@
     "rows": 1,
     "layout": "menuCustom",
     "onSale": false,
-    "columns": 3,
+    "columns": 2,
     "hMargin": 6.0,
     "useSort": false,
     "vMargin": 0.0,
-    "hPadding": 3.0,
+    "hPadding": 5.0,
     "parallax": false,
-    "vPadding": 2.0,
+    "vPadding": 0.0,
     "hidePrice": true,
     "hideStore": false,
     "hideTitle": false,
@@ -1509,7 +1508,7 @@
       "marginLeft": 15.0,
       "marginRight": 15.0,
       "marginTop": 10.0,
-      "marginBottom": 30.0,
+      "marginBottom": 40.0,
       "separateWidth": 24.0,
       "shadow": null,
       "gradientStyle": false,
@@ -1808,7 +1807,7 @@
     "useCircularRadius": true,
     "parallaxImageRatio": 1.2,
     "enableBottomAddToCart": true,
-    "productListItemHeight": 125.0,
+    "productListItemHeight": 100.0,
     "cartButtonQuantitySize": 40.0,
     "hideEmptyProductLayout": false,
     "showProductCardCategory": false,
