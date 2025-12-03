@@ -1444,47 +1444,61 @@
     "alwaysShowAppBar": false
   },
 
-
   "VerticalLayout": {
     "name": "جميع الاقسام",
-    "rows": 1,
     "layout": "menuCustom",
-    "onSale": false,
-    "columns": 2,
+    "isSnapping": false,
+    "borderRadius": 4.0,
     "hMargin": 6.0,
+    "useCircularRadius": true,
     "useSort": false,
+    "showCategory": false,
     "vMargin": 0.0,
     "hPadding": 5.0,
-    "parallax": false,
     "vPadding": 0.0,
-    "hidePrice": true,
-    "hideStore": false,
-    "hideTitle": false,
-    "showHeart": true,
-    "titleLine": 2,
     "boxShadow": {
       "blurRadius": 5.0,
       "colorOpacity": 0.1,
       "spreadRadius": 10.0,
-      "x": 0,
-      "y": 6
+      "x": 0.0,
+      "y": 6.0
     },
     "cardDesign": "card",
-    "imageRatio": 1.2,
-    "isSnapping": false,
-    "isVertical": true,
-    "hideAddress": false,
-    "imageBoxfit": "cover",
-    "productType": false,
-    "borderRadius": 4.0,
-    "enableRating": true,
-    "showCartIcon": true,
-    "showCategory": false,
-    "showQuantity": false,
-    "showCountDown": false,
-    "showOnlyImage": false,
+    "titleLine": 2,
     "advancedParams": {},
+    "backgroundRadius": 10.0,
+    "showCountDown": false,
+    "onSale": false,
+    "rows": 1,
+    "columns": 2,
+    "imageRatio": 1.2,
+    "imageBoxfit": "cover",
+    "hidePrice": true,
+    "hideStore": false,
+    "hideTitle": false,
+    "hideAddress": false,
+    "enableRating": true,
+    "showStockStatus": true,
+    "hideEmptyProductListRating": false,
+    "showHeart": true,
+    "showProductCardCategory": false,
+    "showPhoneNumber": true,
+    "showListingType": true,
+    "showCartButton": false,
+    "showCartIcon": true,
+    "showCartIconColor": false,
     "cartIconRadius": 9.0,
+    "showQuantity": false,
+    "enableBottomAddToCart": true,
+    "showOnlyImage": false,
+    "showCartButtonWithQuantity": false,
+    "cartButtonQuantitySize": 40.0,
+    "parallax": false,
+    "parallaxImageRatio": 1.2,
+    "hideEmptyProductLayout": false,
+    "productListItemHeight": 125.0,
+    "enableAutoSliding": false,
+    "productType": false,
     "categoryConfig": {
       "type": "icon",
       "wrap": false,
@@ -1499,7 +1513,6 @@
       "shadow": null,
       "gradientStyle": false,
       "items": [
-
         {
           "originalColor": false,
           "backgroundColor": null,
@@ -1680,7 +1693,6 @@
           "description": null,
           "productListAnimationConfig": null
         },
-
         {
           "originalColor": false,
           "backgroundColor": null,
@@ -1777,33 +1789,15 @@
       "hideTitle": false,
       "originalColor": false,
       "noBackground": false,
-      "labelFontSize": 15.0,
+      "labelFontSize": 12.5,
       "animationConfig": null,
       "allowFilterMultipleCategory": false,
       "productCategoryMenuStyle": "menu",
       "categoryMenuShowDepth": false
     },
-    "showCartButton": false,
-    "showListingType": true,
-    "showPhoneNumber": true,
-    "showStockStatus": true,
-    "backgroundRadius": 10.0,
-    "enableAutoSliding": false,
-    "showCartIconColor": false,
-    "useCircularRadius": true,
-    "parallaxImageRatio": 1.2,
-    "enableBottomAddToCart": true,
-    "productListItemHeight": 100.0,
-    "cartButtonQuantitySize": 40.0,
-    "hideEmptyProductLayout": false,
-    "showProductCardCategory": false,
-    "hideEmptyProductListRating": false,
-    "showCartButtonWithQuantity": false,
-    "key": "DucblxUDbs",
-    "shuffle": null
+    "shuffle": null,
+    "isVertical": true
   },
-
-
   "Background": {
     "key": "YVHbCFwuDH",
     "color": null,
@@ -1812,6 +1806,7 @@
     "layout": "background",
     "scroll": true
   },
+
   "Drawer": {
     "logo": "https://daleelpro.com/wp-content/uploads/2022/02/3mSe6X-LogoMakr-Copy-1-medium.png",
     "items": [
