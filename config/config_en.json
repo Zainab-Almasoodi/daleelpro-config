@@ -1,8 +1,7 @@
 {
   "HorizonLayout": [
-
     {
-      "image": "https://daleelpro.com/wp-content/uploads/2022/02/45oXA0-LogoMakr-Copy-medium.png",
+      "image": "https://daleelpro.com/wp-content/uploads/2024/12/Green-Modern-Marketing-Logo-2.png",
       "layout": "logo",
       "opacity": 1,
       "iconSize": 24,
@@ -34,33 +33,32 @@
       "fit": "fitWidth",
       "items": [
         {
-          "key":"LIDdRqzGEB",
-          "type":"image",
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/Your-Trusted-Guide-to-Arabic-Businesses.png",
-          "video":"",
-          "products":[],
-          "enableForward":false,
-          "productLength":3,
-          "enableBackward":false,
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false
+          "key": "LIDdRqzGEB",
+          "type": "image",
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/app-main-banner.jpg",
+          "video": "",
+          "products": [],
+          "enableForward": false,
+          "productLength": 3,
+          "enableBackward": false,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
         },
         {
-          "type":"image",
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/Your-Trusted-Guide-to-Arabic-Businesses-Jobs-and-Events-in-Canada-1.png",
-          "products":[],
-          "productLength":3,
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "enableBackward":false,
-          "enableForward":false,
-          "url":"https://daleelpro.com/contact/",
-          "key":"rhiBJamLki"
+          "type": "image",
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/daleelpro-ads.png",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "enableBackward": false,
+          "enableForward": false,
+          "url": "https://daleelpro.com/contact/",
+          "key": "rhiBJamLki"
         }
-        ],
-
+      ],
       "design": "default",
       "isBlur": false,
       "layout": "bannerImage",
@@ -132,7 +130,6 @@
       "enableBackground": false,
       "backgroundGradientColor": []
     },
-
     {
       "size": 1.4,
       "type": "icon",
@@ -153,7 +150,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -173,7 +170,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -193,7 +190,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -213,7 +210,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -233,7 +230,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -253,7 +250,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -273,7 +270,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -293,7 +290,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -313,7 +310,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -333,7 +330,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -353,7 +350,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -373,7 +370,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -393,38 +390,10 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
-        },
-        {
-          "isSafeArea":false,
-          "showSearch":false,
-          "usePrimaryColor":true,
-          "enableBackground":false,
-          "productType":true,
-          "borderInput":false,
-          "title":". . . ",
-          "type":"static",
-          "alignment":"topCenter",
-          "fontWeight":900.0,
-          "fontSize":33.3,
-          "textOpacity":1.0,
-          "marginLeft":0.0,
-          "marginRight":0.0,
-          "marginBottom":20.0,
-          "marginTop":0.0,
-          "paddingLeft":0.0,
-          "paddingRight":0.0,
-          "paddingTop":0.0,
-          "paddingBottom":0.0,
-          "height":40.0,
-          "rotate":[],
-          "minWidth":0.0,
-          "backgroundGradientColor":[],
-          "font":"Roboto",
-          "layout":"header_text"
         }
       ],
       "layout": "category",
@@ -455,284 +424,286 @@
       "enableBackground": true
     },
     {
-      "isSafeArea":false,
-      "showSearch":false,
-      "usePrimaryColor":true,
-      "enableBackground":false,
-      "productType":true,
-      "borderInput":false,
-      "title":". . . ",
-      "type":"static",
-      "alignment":"topCenter",
-      "fontWeight":900.0,
-      "fontSize":33.3,
-      "textOpacity":1.0,
-      "marginLeft":0.0,
-      "marginRight":0.0,
-      "marginBottom":20.0,
-      "marginTop":0.0,
-      "paddingLeft":0.0,
-      "paddingRight":0.0,
-      "paddingTop":0.0,
-      "paddingBottom":10.0,
-      "height":40.0,
-      "rotate":[],
-      "minWidth":0.0,
-      "backgroundGradientColor":[],
-      "font":"Roboto",
-      "layout":"header_text"
+      "isSafeArea": false,
+      "showSearch": false,
+      "usePrimaryColor": true,
+      "enableBackground": false,
+      "productType": true,
+      "borderInput": false,
+      "title": ". . . ",
+      "type": "static",
+      "alignment": "topCenter",
+      "fontWeight": 900.0,
+      "fontSize": 33.3,
+      "textOpacity": 1.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "marginBottom": 20.0,
+      "marginTop": 0.0,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 10.0,
+      "height": 40.0,
+      "rotate": [],
+      "minWidth": 0.0,
+      "backgroundGradientColor": [],
+      "font": "Roboto",
+      "layout": "header_text"
     },
     {
-      "isSafeArea":false,
-      "showSearch":false,
-      "usePrimaryColor":true,
-      "enableBackground":false,
-      "productType":true,
-      "borderInput":false,
-      "title":"One Stop for Everything You Need!",
-      "type":"color",
-      "textColor":"FFFED403",
-      "alignment":"center",
-      "fontWeight":600,
-      "fontSize":26.0,
-      "textOpacity":1.0,
-      "marginLeft":1.0,
-      "marginRight":0.0,
-      "marginBottom":0.0,
-      "marginTop":0.0,
-      "paddingLeft":20.0,
-      "paddingRight":20.0,
-      "paddingTop":0.0,
-      "paddingBottom":0.0,
-      "height":52.0,
-      "rotate":[],
-      "minWidth":0.0,
-      "backgroundGradientColor":[],
-      "font":"Abel",
-      "layout":"header_text"
+      "isSafeArea": false,
+      "showSearch": false,
+      "usePrimaryColor": true,
+      "enableBackground": false,
+      "productType": true,
+      "borderInput": false,
+      "title": "One Stop for Everything You Need!",
+      "type": "color",
+      "textColor": "#F6A623",
+      "alignment": "center",
+      "fontWeight": 600,
+      "fontSize": 26.0,
+      "textOpacity": 1.0,
+      "marginLeft": 1.0,
+      "marginRight": 0.0,
+      "marginBottom": 0.0,
+      "marginTop": 0.0,
+      "paddingLeft": 20.0,
+      "paddingRight": 20.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "height": 52.0,
+      "rotate": [],
+      "minWidth": 0.0,
+      "backgroundGradientColor": [],
+      "font": "Abel",
+      "layout": "header_text"
     },
     {
-      "isSafeArea":false,
-      "showSearch":false,
-      "usePrimaryColor":true,
-      "enableBackground":false,
-      "productType":true,
-      "borderInput":false,
-      "title":"",
-      "type":"color",
-      "textColor":"FFFED403",
-      "alignment":"center",
-      "fontWeight":600,
-      "fontSize":26.0,
-      "textOpacity":1.0,
-      "marginLeft":1.0,
-      "marginRight":0.0,
-      "marginBottom":13.0,
-      "marginTop":0.0,
-      "paddingLeft":9.0,
-      "paddingRight":0.0,
-      "paddingTop":0.0,
-      "paddingBottom":0.0,
-      "height":52.0,
-      "rotate":["Products",
+      "isSafeArea": false,
+      "showSearch": false,
+      "usePrimaryColor": true,
+      "enableBackground": false,
+      "productType": true,
+      "borderInput": false,
+      "title": "",
+      "type": "color",
+      "textColor": "#F6A623",
+      "alignment": "center",
+      "fontWeight": 600,
+      "fontSize": 26.0,
+      "textOpacity": 1.0,
+      "marginLeft": 1.0,
+      "marginRight": 0.0,
+      "marginBottom": 13.0,
+      "marginTop": 0.0,
+      "paddingLeft": 9.0,
+      "paddingRight": 0.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "height": 52.0,
+      "rotate": [
+        "Products",
         "Services",
         "Events",
-        "Jobs"],
-      "minWidth":0.0,
-      "backgroundGradientColor":[],
-      "font":"Akshar",
-      "layout":"header_text"
+        "Jobs"
+      ],
+      "minWidth": 0.0,
+      "backgroundGradientColor": [],
+      "font": "Akshar",
+      "layout": "header_text"
     },
     {
-      "layout":"bannerImage",
-      "design":"static",
-      "fit":"fitWidth",
-      "marginLeft":10.0,
-      "items":[
+      "layout": "bannerImage",
+      "design": "static",
+      "fit": "fitWidth",
+      "marginLeft": 10.0,
+      "items": [
         {
-          "padding":5.0,
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/employees-cv-candidates-resume-corporate-workers-students-id-isolate-flat-design-element-job-applications-avatars-personal-information.png",
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "video":"",
-          "products":[],
-          "productLength":3,
-          "type":"image",
-          "key":"ovHTNdXuoI",
-          "tab_number":"4",
-          "description":{
-            "text":"Find and Post jobs",
-            "fontFamily":"ABeeZee",
-            "fontSize":15.0,
-            "color":"FF607D8B",
-            "x":0.0,
-            "y":1,
-            "enableShadow":false
+          "padding": 5.0,
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/employees-cv-candidates-resume-corporate-workers-students-id-isolate-flat-design-element-job-applications-avatars-personal-information.png",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "type": "image",
+          "key": "ovHTNdXuoI",
+          "tab_number": "4",
+          "description": {
+            "text": "Find and Post jobs",
+            "fontFamily": "ABeeZee",
+            "fontSize": 15.0,
+            "color": "FF607D8B",
+            "x": 0.0,
+            "y": 1,
+            "enableShadow": false
           },
-          "radius":7.0
+          "radius": 7.0
         },
         {
-          "padding":5.0,
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Gen-03_Single-02-scaled.jpg",
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "video":"",
-          "products":[],
-          "productLength":3,
-          "type":"image",
-          "tab_number":"3",
-          "key":"llLRNQPzhh",
-          "radius":7.0,
-          "description":{
-            "text":"Happening around you",
-            "fontFamily":"ABeeZee",
-            "fontSize":15,
-            "color":"FF607D8B",
-            "x":0.0,
-            "y":1,
-            "enableShadow":false}
+          "padding": 5.0,
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Gen-03_Single-02-scaled.jpg",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "type": "image",
+          "tab_number": "3",
+          "key": "llLRNQPzhh",
+          "radius": 7.0,
+          "description": {
+            "text": "Happening around you",
+            "fontFamily": "ABeeZee",
+            "fontSize": 15,
+            "color": "FF607D8B",
+            "x": 0.0,
+            "y": 1,
+            "enableShadow": false
+          }
         }
       ],
-      "marginBottom":20.0,
-      "height":0.2,
-      "marginRight":10.0,
-      "marginTop":0.0,
-      "radius":6.0,
-      "padding":0.0,
-      "parallax":false,
-      "parallaxImageRatio":1.2,
-      "isHorizontal":false,
-      "enableBackground":false,
-      "indicatorAlignment":{
-        "value":"bottomCenter"
+      "marginBottom": 20.0,
+      "height": 0.2,
+      "marginRight": 10.0,
+      "marginTop": 0.0,
+      "radius": 6.0,
+      "padding": 0.0,
+      "parallax": false,
+      "parallaxImageRatio": 1.2,
+      "isHorizontal": false,
+      "enableBackground": false,
+      "indicatorAlignment": {
+        "value": "bottomCenter"
       },
-      "indicatorPadding":{
-        "start":0.0,
-        "top":0.0,
-        "end":0.0,
-        "bottom":12.0
+      "indicatorPadding": {
+        "start": 0.0,
+        "top": 0.0,
+        "end": 0.0,
+        "bottom": 12.0
       },
-      "numberAlignment":{
-        "value":"topEnd"
+      "numberAlignment": {
+        "value": "topEnd"
       },
-      "numberPadding":{
-        "start":0.0,
-        "top":15.0,
-        "end":0.0,
-        "bottom":0.0}
+      "numberPadding": {
+        "start": 0.0,
+        "top": 15.0,
+        "end": 0.0,
+        "bottom": 0.0
+      }
     },
     {
-      "alignment":"topCenter",
-      "marginTop":0.0,
-      "marginBottom":20.0,
-      "enableBackground":false,
-      "items":[
+      "alignment": "topCenter",
+      "marginTop": 0.0,
+      "marginBottom": 20.0,
+      "enableBackground": false,
+      "items": [
         {
-          "text":"Job Hub",
-          "backgroundColor":"FFFED403",
-          "textColor":"FF000000",
-          "width":100.0,
-          "height":35.0,
-          "borderRadius":8.0,
-          "marginLeft":40.0,
-          "marginRight":40.0,
-          "textFontSize":16.0,
-          "useMaxWidth":false,
-          "navigator":{
-            "key":"XsDJPHpgFY",
-            "tab_number":"4"}
+          "text": "Job Hub",
+          "backgroundColor": "#F6A623",
+          "textColor": "FF000000",
+          "width": 100.0,
+          "height": 35.0,
+          "borderRadius": 8.0,
+          "marginLeft": 40.0,
+          "marginRight": 40.0,
+          "textFontSize": 16.0,
+          "useMaxWidth": false,
+          "navigator": {
+            "key": "XsDJPHpgFY",
+            "tab_number": "4"
+          }
         },
         {
-          "text":"Events",
-          "backgroundColor":"FFFED403",
-          "textColor":"FF000000",
-          "width":100.0,
-          "height":35.0,
-          "borderRadius":8.0,
-          "marginLeft":40.0,
-          "marginRight":40.0,
-          "textFontSize":17.0,
-          "useMaxWidth":false,
-          "navigator":{
-            "key":"GRhYokosZq",
-            "tab_number":"3"}
+          "text": "Events",
+          "backgroundColor": "#F6A623",
+          "textColor": "FF000000",
+          "width": 100.0,
+          "height": 35.0,
+          "borderRadius": 8.0,
+          "marginLeft": 40.0,
+          "marginRight": 40.0,
+          "textFontSize": 17.0,
+          "useMaxWidth": false,
+          "navigator": {
+            "key": "GRhYokosZq",
+            "tab_number": "3"
+          }
         }
       ],
-      "layout":"button"
+      "layout": "button"
     },
-
     {
       "layout": "spacer",
       "height": 30
     },
-
     {
-      "category":"",
-      "name":"Recent View",
-      "layout":"recentView",
-      "isSnapping":false,
-      "borderRadius":3.0,
-      "hMargin":6.0,
-      "useCircularRadius":true,
-      "useSort":false,
-      "showCategory":false,
-      "vMargin":0.0,
-      "hPadding":0.0,
-      "vPadding":0.0,
-      "cardDesign":"card",
-      "advancedParams":{
+      "category": "",
+      "name": "Recent View",
+      "layout": "recentView",
+      "isSnapping": false,
+      "borderRadius": 3.0,
+      "hMargin": 6.0,
+      "useCircularRadius": true,
+      "useSort": false,
+      "showCategory": false,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "cardDesign": "card",
+      "advancedParams": {
       },
-      "backgroundRadius":10.0,
-      "showCountDown":false,
-      "onSale":false,
-      "rows":1,
-      "columns":0,
-      "imageRatio":1.2,
-      "imageBoxfit":"cover",
-      "hidePrice":true,
-      "hideStore":false,
-      "hideTitle":false,
-      "hideAddress":false,
-      "featured":false,
-      "enableRating":true,
-      "showStockStatus":true,
-      "hideEmptyProductListRating":false,
-      "showHeart":true,
-      "showProductCardCategory":true,
-      "showPhoneNumber":true,
-      "showListingType":true,
-      "showCartButton":false,
-      "showCartIcon":true,
-      "showCartIconColor":false,
-      "cartIconRadius":9.0,
-      "showQuantity":false,
-      "enableBottomAddToCart":false,
-      "showOnlyImage":false,
-      "showCartButtonWithQuantity":false,
-      "cartButtonQuantitySize":40.0,
-      "parallax":false,
-      "parallaxImageRatio":1.2,
-      "hideEmptyProductLayout":false,
-      "productListItemHeight":125.0,
-      "enableAutoSliding":true,
-      "durationAutoSliding":7,
-      "productType":false
+      "backgroundRadius": 10.0,
+      "showCountDown": false,
+      "onSale": false,
+      "rows": 1,
+      "columns": 0,
+      "imageRatio": 1.2,
+      "imageBoxfit": "cover",
+      "hidePrice": true,
+      "hideStore": false,
+      "hideTitle": false,
+      "hideAddress": false,
+      "featured": false,
+      "enableRating": true,
+      "showStockStatus": true,
+      "hideEmptyProductListRating": false,
+      "showHeart": true,
+      "showProductCardCategory": true,
+      "showPhoneNumber": true,
+      "showListingType": true,
+      "showCartButton": false,
+      "showCartIcon": true,
+      "showCartIconColor": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "enableBottomAddToCart": false,
+      "showOnlyImage": false,
+      "showCartButtonWithQuantity": false,
+      "cartButtonQuantitySize": 40.0,
+      "parallax": false,
+      "parallaxImageRatio": 1.2,
+      "hideEmptyProductLayout": false,
+      "productListItemHeight": 125.0,
+      "enableAutoSliding": true,
+      "durationAutoSliding": 7,
+      "productType": false
     },
-
     {
       "layout": "spacer",
       "height": 30
     },
-
     {
       "name": "Recently Added",
       "rows": 1,
       "limit": 14,
       "layout": "threeColumn",
       "onSale": false,
-      "hideAddress":false,
+      "hideAddress": false,
       "columns": 3,
       "hMargin": 0,
       "useSort": false,
@@ -778,19 +749,16 @@
       "hideEmptyProductListRating": false,
       "showCartButtonWithQuantity": false
     },
-
     {
       "layout": "spacer",
       "height": 30
     },
-
-
     {
       "name": "Food & Dining",
       "rows": 1,
       "limit": 20,
       "layout": "largeCard",
-      "hideAddress":false,
+      "hideAddress": false,
       "onSale": false,
       "columns": 3,
       "hMargin": 6,
@@ -833,13 +801,10 @@
       "hideEmptyProductListRating": false,
       "showCartButtonWithQuantity": false
     },
-
     {
       "layout": "spacer",
       "height": 30
     },
-
-
     {
       "items": [],
       "layout": "button",
@@ -870,7 +835,7 @@
             "scripts": [],
             "children": [
               {
-                "text": "Want your business to grow? 🌿",
+                "text": "Have a business?",
                 "type": "text",
                 "scripts": [],
                 "largeScreen": null,
@@ -1093,7 +1058,7 @@
       "background": {
         "type": "background",
         "child": null,
-        "color": "ffffeb3b",
+        "color": "#FFF17F",
         "scripts": [],
         "largeScreen": null,
         "smallScreen": null
@@ -1105,12 +1070,10 @@
       "largeScreenMinWidth": null,
       "smallScreenMaxWidth": null
     },
-
     {
       "layout": "spacer",
       "height": 30
     }
-
   ],
   "Setting": {
     "AboutUS": "https://daleelpro.com/about-us/",
@@ -1138,7 +1101,7 @@
       "paddingBottom": 0,
       "radiusTopLeft": 0,
       "TabBarFloating": {
-        "color": "ffffca0c",
+        "color": "#F6A623",
         "width": 70.261694164508,
         "height": 70.44671253505518,
         "margin": null,
@@ -1170,7 +1133,7 @@
         "horizontalPadding": 0,
         "distanceFromCenter": 0
       },
-      "colorActiveIcon": "ffffca0c",
+      "colorActiveIcon": "#F6A623",
       "alwaysShowTabBar": true,
       "radiusBottomLeft": 0,
       "showFloatingClip": false,
@@ -1259,7 +1222,7 @@
             }
           ],
           "layout": "category",
-          "hideAddress":false,
+          "hideAddress": false,
           "shadow": null,
           "columns": null,
           "marginX": 0,
@@ -1317,7 +1280,6 @@
     }
   },
   "TabBar": [
-
     {
       "key": "p1q235ba14",
       "pos": 100,
@@ -1356,7 +1318,7 @@
       "fullscreen": false,
       "enableForward": true,
       "enableBackward": true,
-      "enableClose":true,
+      "enableClose": true,
       "showOriginalColor": false
     },
     {
@@ -1369,7 +1331,7 @@
       "defaultTab": false,
       "fullscreen": false,
       "showOriginalColor": false,
-      "enableClose":true
+      "enableClose": true
     },
     {
       "key": "2reihs4qzc",
@@ -1424,23 +1386,23 @@
           "iconFontFamily": "CupertinoIcons",
           "buttonAlignment": "centerLeft"
         },
-        "web-ibtZCxbbyr":{
-          "id":"web-12",
-          "title":"Chat",
-          "icon":"bubble_left_bubble_right",
-          "iconFontFamily":"CupertinoIcons",
-          "webUrl":"https://tawk.to/chat/684ae8c94b5a53190afc4e18/1iti9ql3m",
-          "enableDivider":false,
-          "webViewMode":true,
-          "requiredLogin":false,
-          "enableForward":false,
-          "enableBackward":true,
-          "enableClose":true,
-          "buttonAlignment":"centerLeft",
-          "buttons":[],
-          "bannerHeight":15.0,
-          "screen":"home",
-          "useTabScreen":false
+        "web-ibtZCxbbyr": {
+          "id": "web-12",
+          "title": "Chat",
+          "icon": "bubble_left_bubble_right",
+          "iconFontFamily": "CupertinoIcons",
+          "webUrl": "https://tawk.to/chat/684ae8c94b5a53190afc4e18/1iti9ql3m",
+          "enableDivider": false,
+          "webViewMode": true,
+          "requiredLogin": false,
+          "enableForward": false,
+          "enableBackward": true,
+          "enableClose": true,
+          "buttonAlignment": "centerLeft",
+          "buttons": [],
+          "bannerHeight": 15.0,
+          "screen": "home",
+          "useTabScreen": false
         }
       }
     }
@@ -1458,7 +1420,6 @@
     ],
     "alwaysShowAppBar": false
   },
-
   "VerticalLayout": {
     "name": "All Categories",
     "rows": 1,
@@ -1513,7 +1474,6 @@
       "shadow": null,
       "gradientStyle": false,
       "items": [
-
         {
           "originalColor": false,
           "backgroundColor": null,
@@ -1694,7 +1654,6 @@
           "description": null,
           "productListAnimationConfig": null
         },
-
         {
           "originalColor": false,
           "backgroundColor": null,
@@ -1816,7 +1775,6 @@
     "key": "DucblxUDbs",
     "shuffle": null
   },
-
   "Background": {
     "key": "YVHbCFwuDH",
     "color": null,
@@ -1826,7 +1784,7 @@
     "scroll": true
   },
   "Drawer": {
-    "logo": "https://daleelpro.com/wp-content/uploads/2022/02/3mSe6X-LogoMakr-Copy-1-medium.png",
+    "logo": "https://daleelpro.com/wp-content/uploads/2024/12/Green-Modern-Marketing-Logo-2.png",
     "items": [
       {
         "show": true,
@@ -1855,7 +1813,7 @@
     ],
     "enable": false,
     "filter": 0,
-    "logoDark": "https://daleelpro.com/wp-content/uploads/2022/02/3mSe6X-LogoMakr-Copy-medium.png",
+    "logoDark": "https://daleelpro.com/wp-content/uploads/2024/12/Green-Modern-Marketing-Logo-2.png",
     "safeArea": false,
     "iconColor": null,
     "textColor": null,
@@ -1874,7 +1832,6 @@
     "backgroundColor": null,
     "backgroundImage": null
   },
-
   "onBoardingConfig": {
     "version": 1,
     "showLanguage": true,
@@ -1889,8 +1846,7 @@
         "title": "Welcome to DaleelPro"
       },
       {
-        "desc":
-        "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
         "image": "assets/images/splash2.jpg",
         "title": "Connect Surrounding World"
       },
