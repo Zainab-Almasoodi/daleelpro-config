@@ -463,7 +463,7 @@
       "textColor": "#0f363f",
       "alignment": "center",
       "fontWeight": 600,
-      "fontSize": 26.0,
+      "fontSize": 23.0,
       "textOpacity": 1.0,
       "marginLeft": 1.0,
       "marginRight": 0.0,
@@ -898,7 +898,12 @@
                   "maxLines": null,
                   "minLines": null,
                   "textAlign": null,
-                  "customStyle": null,
+                  "customStyle": {
+                    "color": {
+                      "color": "#FFFFFF",
+                      "runtimeType": "solid"
+                    }
+                  },
                   "styleSource": "bodyLarge",
                   "textOverflow": null,
                   "containerConfig": null
