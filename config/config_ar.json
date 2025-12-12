@@ -462,7 +462,7 @@
       "borderInput":false,
       "title":"محطة واحدة لكل ما تحتاجه!",
       "type":"color",
-      "textColor":"#F6A623",
+      "textColor":"#0f363f",
       "alignment":"center",
       "fontWeight":600,
       "fontSize":26.0,
@@ -824,7 +824,7 @@
       "height": 30
     },
 
-     {
+    {
       "items": [],
       "layout": "button",
       "alignment": "topCenter",
@@ -932,7 +932,12 @@
                 "smallScreen": null,
                 "textStyleConfig": {
                   "styleSource": "bodyLarge",
-                  "customStyle": null,
+                  "customStyle": {
+                    "color": {
+                      "color": "#FFFFFF",
+                      "runtimeType": "solid"
+                    }
+                  },
                   "textOverflow": null,
                   "maxLines": null,
                   "minLines": null,
@@ -1094,6 +1099,7 @@
       "fitBody": "loose",
       "layout": "animatedStackContainer"
     },
+
     {
       "layout": "spacer",
       "height": 30
