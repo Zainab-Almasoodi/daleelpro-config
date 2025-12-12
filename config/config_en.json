@@ -847,7 +847,7 @@
                   "textAlign": null,
                   "customStyle": {
                     "color": {
-                      "color": "#ff101828",
+                      "color": "#F6A623",
                       "runtimeType": "solid"
                     },
                     "height": null,
@@ -954,7 +954,7 @@
                 "textAlign": null,
                 "customStyle": {
                   "color": {
-                    "color": "#ffffffff",
+                    "color": "#1d2939",
                     "runtimeType": "solid"
                   },
                   "height": null,
@@ -987,7 +987,7 @@
             "largeScreen": null,
             "smallScreen": null
           },
-          "color": "ff054f31",
+          "color": "#F6A623",
           "style": null,
           "scripts": [
             {
@@ -1025,7 +1025,7 @@
           "type": "align",
           "child": {
             "fit": "cover",
-            "url": "https://trello.com/1/cards/66838d45fd93cfdee38dcb87/attachments/67e3c0e472135d0bd291d3d3/download/Mask_group.png",
+            "url": "https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Lst-17_Single-04-Photoroom-1.png",
             "type": "image",
             "width": null,
             "height": null,
@@ -1058,7 +1058,7 @@
       "background": {
         "type": "background",
         "child": null,
-        "color": "#FFF17F",
+        "color": "#1d2939",
         "scripts": [],
         "largeScreen": null,
         "smallScreen": null
