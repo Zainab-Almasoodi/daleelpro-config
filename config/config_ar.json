@@ -490,7 +490,7 @@
       "productType":true,
       "borderInput":false,
       "title":"",
-      "type":"color",
+      "type":"typer",
       "textColor":"#F6A623",
       "alignment":"center",
       "fontWeight":600,
