@@ -1,7 +1,7 @@
 {
   "HorizonLayout": [
     {
-      "image": "https://daleelpro.com/wp-content/uploads/2022/02/45oXA0-LogoMakr-Copy-medium.png",
+      "image": "https://daleelpro.com/wp-content/uploads/2024/12/Green-Modern-Marketing-Logo-2.png",
       "layout": "logo",
       "opacity": 1,
       "iconSize": 24,
@@ -35,7 +35,7 @@
         {
           "key":"LIDdRqzGEB",
           "type":"image",
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/Your-Trusted-Guide-to-Arabic-Businesses.png",
+          "image":"https://daleelpro.com/wp-content/uploads/2024/12/app-main-banner.jpg",
           "video":"",
           "products":[],
           "enableForward":false,
@@ -47,7 +47,7 @@
         },
         {
           "type":"image",
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/Your-Trusted-Guide-to-Arabic-Businesses-Jobs-and-Events-in-Canada-1.png",
+          "image":"https://daleelpro.com/wp-content/uploads/2024/12/daleelpro-ads.png",
           "products":[],
           "productLength":3,
           "showSubcategory":false,
@@ -150,7 +150,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -170,7 +170,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -190,7 +190,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -210,7 +210,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -230,7 +230,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -250,7 +250,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -270,7 +270,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -290,7 +290,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -310,7 +310,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -330,7 +330,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -350,7 +350,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -370,7 +370,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -390,7 +390,7 @@
           "description": null,
           "productType": false,
           "originalColor": false,
-          "backgroundColor": "ffffcc34",
+          "backgroundColor": "#F6A623",
           "showDescription": true,
           "keepDefaultTitle": false,
           "productListAnimationConfig": null
@@ -462,7 +462,7 @@
       "borderInput":false,
       "title":"محطة واحدة لكل ما تحتاجه!",
       "type":"color",
-      "textColor":"FFFED403",
+      "textColor":"#F6A623",
       "alignment":"center",
       "fontWeight":600,
       "fontSize":26.0,
@@ -491,7 +491,7 @@
       "borderInput":false,
       "title":"",
       "type":"color",
-      "textColor":"FFFED403",
+      "textColor":"#F6A623",
       "alignment":"center",
       "fontWeight":600,
       "fontSize":26.0,
@@ -604,7 +604,7 @@
       "items":[
         {
           "text":"دليل الوظائف",
-          "backgroundColor":"FFFED403",
+          "backgroundColor":"#F6A623",
           "textColor":"FF000000",
           "width":100.0,
           "height":35.0,
@@ -619,7 +619,7 @@
         },
         {
           "text":"الفعاليات",
-          "backgroundColor":"FFFED403",
+          "backgroundColor":"#F6A623",
           "textColor":"FF000000",
           "width":100.0,
           "height":35.0,
@@ -851,7 +851,7 @@
       },
       "background": {
         "type": "background",
-        "color": "ffffeb3b",
+        "color": "#FFF17F",
         "scripts": [],
         "child": null,
         "largeScreen": null,
@@ -872,7 +872,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "هل تريد أن ينمو عملك؟ 🌿",
+                "text": "هل تريد أن ينمو عملك؟ ",
                 "scripts": [],
                 "actionConfig": null,
                 "largeScreen": null,
@@ -925,7 +925,7 @@
               },
               {
                 "type": "text",
-                "text": "سجل الدخول وأضف عملك \nإلى دليل برو مجانا",
+                "text": "سجل الدخول وأضف عملك \nإلى دليل برو مجانا!",
                 "scripts": [],
                 "actionConfig": null,
                 "largeScreen": null,
@@ -1127,7 +1127,7 @@
       "paddingBottom": 0,
       "radiusTopLeft": 0,
       "TabBarFloating": {
-        "color": "ffffca0c",
+        "color": "#F6A623",
         "width": 70.261694164508,
         "height": 70.44671253505518,
         "margin": null,
@@ -1159,7 +1159,7 @@
         "horizontalPadding": 0,
         "distanceFromCenter": 0
       },
-      "colorActiveIcon": "ffffca0c",
+      "colorActiveIcon": "#F6A623",
       "alwaysShowTabBar": true,
       "radiusBottomLeft": 0,
       "showFloatingClip": false,
@@ -1808,7 +1808,7 @@
   },
 
   "Drawer": {
-    "logo": "https://daleelpro.com/wp-content/uploads/2022/02/3mSe6X-LogoMakr-Copy-1-medium.png",
+    "logo": "https://daleelpro.com/wp-content/uploads/2024/12/Green-Modern-Marketing-Logo-2.png",
     "items": [
       {
         "show": true,
@@ -1837,7 +1837,7 @@
     ],
     "enable": false,
     "filter": 0,
-    "logoDark": "https://daleelpro.com/wp-content/uploads/2022/02/3mSe6X-LogoMakr-Copy-medium.png",
+    "logoDark": "https://daleelpro.com/wp-content/uploads/2024/12/Green-Modern-Marketing-Logo-2.png",
     "safeArea": false,
     "iconColor": null,
     "textColor": null,
