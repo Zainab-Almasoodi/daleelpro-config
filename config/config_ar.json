@@ -456,7 +456,7 @@
     {
       "isSafeArea":false,
       "showSearch":false,
-      "usePrimaryColor":true,
+      "usePrimaryColor":false,
       "enableBackground":false,
       "productType":true,
       "borderInput":false,
