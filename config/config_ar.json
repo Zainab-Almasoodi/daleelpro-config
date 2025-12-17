@@ -1120,7 +1120,7 @@
       "marginLeft": 0,
       "paddingTop": 0,
       "enableOnTop": false,
-      "lazyLoading": true,
+      "lazyLoading": false,
       "marginRight": 0,
       "paddingLeft": 0,
       "marginBottom": 0,
