@@ -647,7 +647,7 @@
       "layout":"recentView",
       "isSnapping":false,
       "borderRadius":3.0,
-      "hMargin":6.0,
+      "hMargin":9.0,
       "useCircularRadius":true,
       "useSort":false,
       "showCategory":true,
