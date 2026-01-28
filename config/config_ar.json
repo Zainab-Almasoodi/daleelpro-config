@@ -650,7 +650,7 @@
       "hMargin":6.0,
       "useCircularRadius":true,
       "useSort":false,
-      "showCategory":false,
+      "showCategory":true,
       "vMargin":0.0,
       "hPadding":0.0,
       "vPadding":0.0,
@@ -691,7 +691,7 @@
       "productListItemHeight":125.0,
       "enableAutoSliding":true,
       "durationAutoSliding":7,
-      "productType":false
+      "productType":true
     },
 
     {
@@ -705,10 +705,10 @@
       "hideAddress":false,
       "isSnapping": false,
       "borderRadius": 3.0,
-      "hMargin": 0,
+      "hMargin": 0.6,
       "useCircularRadius": true,
       "useSort": false,
-      "showCategory": false,
+      "showCategory": true,
       "vMargin": 0.0,
       "hPadding": 1,
       "vPadding": 1,
@@ -743,8 +743,8 @@
       "showStockStatus": true,
       "hideEmptyProductListRating": false,
       "showHeart": true,
-      "showProductCardCategory": false,
-      "showPhoneNumber": false,
+      "showProductCardCategory": true,
+      "showPhoneNumber": true,
       "showListingType": true,
       "showCartButton": false,
       "showCartIcon": true,
