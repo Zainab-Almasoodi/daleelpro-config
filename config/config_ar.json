@@ -33,30 +33,30 @@
       "fit": "fitWidth",
       "items": [
         {
-          "key":"LIDdRqzGEB",
-          "type":"image",
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/app-main-banner-arr.jpg",
-          "video":"",
-          "products":[],
-          "enableForward":false,
-          "productLength":3,
-          "enableBackward":false,
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false
+          "key": "LIDdRqzGEB",
+          "type": "image",
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/app-main-banner.jpg",
+          "video": "",
+          "products": [],
+          "enableForward": false,
+          "productLength": 3,
+          "enableBackward": false,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
         },
         {
-          "type":"image",
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/daleelpro-ads.png",
-          "products":[],
-          "productLength":3,
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "enableBackward":false,
-          "enableForward":false,
-          "url":"https://daleelpro.com/contact/",
-          "key":"rhiBJamLki"
+          "type": "image",
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/daleelpro-ads.png",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "enableBackward": false,
+          "enableForward": false,
+          "url": "https://daleelpro.com/contact/",
+          "key": "rhiBJamLki"
         }
       ],
       "design": "default",
@@ -105,7 +105,7 @@
     {
       "font": "Roboto",
       "type": "static",
-      "title": "ابحث عن منتج أو خدمات",
+      "title": "Search for a product or Services",
       "height": 44,
       "layout": "header_search",
       "radius": 6,
@@ -421,355 +421,230 @@
       "textAlignment": "topLeft",
       "horizontalItem": false,
       "animationConfig": null,
-      "enableBackground": true,
-      "productCategoryMenuStyle": "menu",
-      "allowFilterMultipleCategory": false
+      "enableBackground": true
     },
     {
-      "isSafeArea":false,
-      "showSearch":false,
-      "usePrimaryColor":true,
-      "enableBackground":false,
-      "productType":true,
-      "borderInput":false,
-      "title":". . . ",
-      "type":"static",
-      "alignment":"topCenter",
-      "fontWeight":900.0,
-      "fontSize":33.3,
-      "textOpacity":1.0,
-      "marginLeft":0.0,
-      "marginRight":0.0,
-      "marginBottom":20.0,
-      "marginTop":0.0,
-      "paddingLeft":0.0,
-      "paddingRight":0.0,
-      "paddingTop":0.0,
-      "paddingBottom":10.0,
-      "height":40.0,
-      "rotate":[],
-      "minWidth":0.0,
-      "backgroundGradientColor":[],
-      "font":"Roboto",
-      "layout":"header_text"
+      "isSafeArea": false,
+      "showSearch": false,
+      "usePrimaryColor": true,
+      "enableBackground": false,
+      "productType": true,
+      "borderInput": false,
+      "title": ". . . ",
+      "type": "static",
+      "alignment": "topCenter",
+      "fontWeight": 900.0,
+      "fontSize": 33.3,
+      "textOpacity": 1.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "marginBottom": 20.0,
+      "marginTop": 0.0,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 10.0,
+      "height": 40.0,
+      "rotate": [],
+      "minWidth": 0.0,
+      "backgroundGradientColor": [],
+      "font": "Roboto",
+      "layout": "header_text"
     },
     {
-      "isSafeArea":false,
-      "showSearch":false,
-      "usePrimaryColor":true,
-      "enableBackground":false,
-      "productType":true,
-      "borderInput":false,
-      "title":"محطة واحدة لكل ما تحتاجه!",
-      "type":"color",
-      "alignment":"center",
-      "fontWeight":600,
-      "fontSize":26.0,
-      "textOpacity":1.0,
-      "marginLeft":1.0,
-      "marginRight":0.0,
-      "marginBottom":0.0,
-      "marginTop":0.0,
-      "paddingLeft":9.0,
-      "paddingRight":0.0,
-      "paddingTop":0.0,
-      "paddingBottom":0.0,
-      "height":52.0,
-      "rotate":[],
-      "minWidth":0.0,
-      "backgroundGradientColor":[],
-      "font":"Akshar",
-      "layout":"header_text"
+      "isSafeArea": false,
+      "showSearch": false,
+      "usePrimaryColor": true,
+      "enableBackground": false,
+      "productType": true,
+      "borderInput": false,
+      "title": "One Stop for Everything You Need!",
+      "type": "color",
+      "textColor": "#0f363f",
+      "alignment": "center",
+      "fontWeight": 600,
+      "fontSize": 23.0,
+      "textOpacity": 1.0,
+      "marginLeft": 1.0,
+      "marginRight": 0.0,
+      "marginBottom": 0.0,
+      "marginTop": 0.0,
+      "paddingLeft": 20.0,
+      "paddingRight": 20.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "height": 52.0,
+      "rotate": [],
+      "minWidth": 0.0,
+      "backgroundGradientColor": [],
+      "font": "Akshar",
+      "layout": "header_text"
     },
     {
-      "isSafeArea":false,
-      "showSearch":false,
-      "usePrimaryColor":true,
-      "enableBackground":false,
-      "productType":true,
-      "borderInput":false,
-      "title":"",
-      "type":"typer",
-      "textColor":"#F6A623",
-      "alignment":"center",
-      "fontWeight":600,
-      "fontSize":26.0,
-      "textOpacity":1.0,
-      "marginLeft":1.0,
-      "marginRight":0.0,
-      "marginBottom":13.0,
-      "marginTop":0.0,
-      "paddingLeft":9.0,
-      "paddingRight":0.0,
-      "paddingTop":0.0,
-      "paddingBottom":0.0,
-      "height":52.0,
-      "rotate":[
-        "منتجات",
-        "خدمات",
-        "فعاليات",
-        "وظائف"
+      "isSafeArea": false,
+      "showSearch": false,
+      "usePrimaryColor": true,
+      "enableBackground": false,
+      "productType": true,
+      "borderInput": false,
+      "title": "",
+      "type": "typer",
+      "textColor": "#F6A623",
+      "alignment": "center",
+      "fontWeight": 600,
+      "fontSize": 26.0,
+      "textOpacity": 1.0,
+      "marginLeft": 1.0,
+      "marginRight": 0.0,
+      "marginBottom": 13.0,
+      "marginTop": 0.0,
+      "paddingLeft": 9.0,
+      "paddingRight": 0.0,
+      "paddingTop": 0.0,
+      "paddingBottom": 0.0,
+      "height": 52.0,
+      "rotate": [
+        "Products",
+        "Services",
+        "Events",
+        "Jobs"
       ],
-      "minWidth":0.0,
-      "backgroundGradientColor":[],
-      "font":"Akshar",
-      "layout":"header_text"
+      "minWidth": 0.0,
+      "backgroundGradientColor": [],
+      "font": "Akshar",
+      "layout": "header_text"
     },
     {
-      "layout":"bannerImage",
-      "design":"static",
-      "fit":"fitWidth",
-      "marginLeft":10.0,
-      "items":[
+      "layout": "bannerImage",
+      "design": "static",
+      "fit": "fitWidth",
+      "marginLeft": 10.0,
+      "items": [
         {
-          "padding":5.0,
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/employees-cv-candidates-resume-corporate-workers-students-id-isolate-flat-design-element-job-applications-avatars-personal-information.png",
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "video":"",
-          "products":[],
-          "productLength":3,
-          "type":"image",
-          "key":"ovHTNdXuoI",
-          "tab_number":"4",
-          "description":{
-            "text":"ابحث او انشر فرصة عمل",
-            "fontFamily":"ABeeZee",
-            "fontSize":15,
-            "color":"FF607D8B",
-            "x":0.0,
-            "y":1,
-            "enableShadow":false
+          "padding": 5.0,
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/employees-cv-candidates-resume-corporate-workers-students-id-isolate-flat-design-element-job-applications-avatars-personal-information.png",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "type": "image",
+          "key": "ovHTNdXuoI",
+          "tab_number": "4",
+          "description": {
+            "text": "Find and Post jobs",
+            "fontFamily": "ABeeZee",
+            "fontSize": 15.0,
+            "color": "FF607D8B",
+            "x": 0.0,
+            "y": 1,
+            "enableShadow": false
           },
-          "radius":7.0
+          "radius": 7.0
         },
         {
-          "padding":5.0,
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Gen-03_Single-02-removebg-preview.png",
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "video":"",
-          "products":[],
-          "productLength":3,
-          "type":"image",
-          "tab_number":"3",
-          "key":"llLRNQPzhh",
-          "radius":7.0,
-          "description":{
-            "text":"اكتشف ما يحدث حولك",
-            "fontFamily":"ABeeZee",
-            "fontSize":15,
-            "color":"FF607D8B",
-            "x":0.0,
-            "y":1,
-            "enableShadow":false}
+          "padding": 5.0,
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Gen-03_Single-02-scaled.jpg",
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "type": "image",
+          "tab_number": "3",
+          "key": "llLRNQPzhh",
+          "radius": 7.0,
+          "description": {
+            "text": "Happening around you",
+            "fontFamily": "ABeeZee",
+            "fontSize": 15,
+            "color": "FF607D8B",
+            "x": 0.0,
+            "y": 1,
+            "enableShadow": false
+          }
         }
       ],
-      "marginBottom":20.0,
-      "height":0.2,
-      "marginRight":10.0,
-      "marginTop":0.0,
-      "radius":6.0,
-      "padding":0.0,
-      "parallax":false,
-      "parallaxImageRatio":1.2,
-      "isHorizontal":false,
-      "enableBackground":false,
-      "indicatorAlignment":{
-        "value":"bottomCenter"
-      },
-      "indicatorPadding":{
-        "start":0.0,
-        "top":0.0,
-        "end":0.0,
-        "bottom":12.0
-      },
-      "numberAlignment":{
-        "value":"topEnd"
-      },
-      "numberPadding":{
-        "start":0.0,
-        "top":15.0,
-        "end":0.0,
-        "bottom":0.0}
-    },
-    {
-      "alignment":"topLeft",
-      "marginTop":0.0,
-      "marginBottom":40.0,
-      "enableBackground":false,
-      "items":[
-        {
-          "text":"دليل الوظائف",
-          "backgroundColor":"#F6A623",
-          "textColor":"FF000000",
-          "width":100.0,
-          "height":35.0,
-          "borderRadius":8.0,
-          "marginLeft":40.0,
-          "marginRight":40.0,
-          "textFontSize":16.0,
-          "useMaxWidth":false,
-          "navigator":{
-            "key":"XsDJPHpgFY",
-            "tab_number":"4"}
-        },
-        {
-          "text":"الفعاليات",
-          "backgroundColor":"#F6A623",
-          "textColor":"FF000000",
-          "width":100.0,
-          "height":35.0,
-          "borderRadius":8.0,
-          "marginLeft":40.0,
-          "marginRight":40.0,
-          "textFontSize":17.0,
-          "useMaxWidth":false,
-          "navigator":{
-            "key":"GRhYokosZq",
-            "tab_number":"3"}
-        }
-      ],
-      "layout":"button"
-    },
-
-    {
-      "layout": "spacer",
-      "height": 30
-    },
-
-    {
-      "category":"",
-      "name":"تصفحت مؤخرا",
-      "layout":"recentView",
-      "isSnapping":false,
-      "borderRadius":3.0,
-      "hMargin":6.0,
-      "useCircularRadius":true,
-      "useSort":false,
-      "showCategory":false,
-      "vMargin":0.0,
-      "hPadding":0.0,
-      "vPadding":0.0,
-      "cardDesign":"card",
-      "advancedParams":{
-      },
-      "backgroundRadius":10.0,
-      "showCountDown":false,
-      "onSale":false,
-      "rows":1,
-      "columns":0,
-      "imageRatio":1.2,
-      "imageBoxfit":"cover",
-      "hidePrice":true,
-      "hideStore":false,
-      "hideTitle":false,
-      "hideAddress":false,
-      "featured":false,
-      "enableRating":true,
-      "showStockStatus":true,
-      "hideEmptyProductListRating":false,
-      "showHeart":true,
-      "showProductCardCategory":true,
-      "showPhoneNumber":true,
-      "showListingType":true,
-      "showCartButton":false,
-      "showCartIcon":true,
-      "showCartIconColor":false,
-      "cartIconRadius":9.0,
-      "showQuantity":false,
-      "enableBottomAddToCart":false,
-      "showOnlyImage":false,
-      "showCartButtonWithQuantity":false,
-      "cartButtonQuantitySize":40.0,
-      "parallax":false,
-      "parallaxImageRatio":1.2,
-      "hideEmptyProductLayout":false,
-      "productListItemHeight":125.0,
-      "enableAutoSliding":true,
-      "durationAutoSliding":7,
-      "productType":false
-    },
-
-    {
-      "layout": "spacer",
-      "height": 30
-    },
-
-    {
-      "name": "أضيف مؤخرا",
-      "layout": "threeColumn",
-      "hideAddress":false,
-      "isSnapping": false,
-      "borderRadius": 3.0,
-      "hMargin": 0,
-      "useCircularRadius": true,
-      "useSort": false,
-      "showCategory": false,
-      "vMargin": 0.0,
-      "hPadding": 1,
-      "vPadding": 1,
-      "boxShadow": {
-        "blurRadius": 5.0,
-        "colorOpacity": 0.1,
-        "spreadRadius": 10.0,
-        "x": 0.0,
-        "y": 2.0
-      },
-      "marginBGP": {
-        "left": 0.0,
-        "right": 0.0,
-        "top": 5.0,
-        "bottom": 5.0
-      },
-      "cardDesign": "card",
-      "titleLine": 2,
-      "limit": 14,
-      "advancedParams": {},
-      "backgroundRadius": 7.0,
-      "showCountDown": false,
-      "onSale": false,
-      "rows": 1,
-      "columns": 3,
-      "imageRatio": 1.2,
-      "imageBoxfit": "cover",
-      "hidePrice": true,
-      "hideStore": false,
-      "hideTitle": false,
-      "enableRating": true,
-      "showStockStatus": true,
-      "hideEmptyProductListRating": false,
-      "showHeart": true,
-      "showProductCardCategory": false,
-      "showPhoneNumber": false,
-      "showListingType": true,
-      "showCartButton": false,
-      "showCartIcon": true,
-      "showCartIconColor": false,
-      "cartIconRadius": 9.0,
-      "showQuantity": false,
-      "enableBottomAddToCart": true,
-      "showOnlyImage": false,
-      "showCartButtonWithQuantity": false,
-      "cartButtonQuantitySize": 40.0,
+      "marginBottom": 20.0,
+      "height": 0.2,
+      "marginRight": 10.0,
+      "marginTop": 0.0,
+      "radius": 6.0,
+      "padding": 0.0,
       "parallax": false,
-      "parallaxImageRatio": 1.0,
-      "hideEmptyProductLayout": false,
-      "productListItemHeight": 125.0,
-      "enableAutoSliding": false
+      "parallaxImageRatio": 1.2,
+      "isHorizontal": false,
+      "enableBackground": false,
+      "indicatorAlignment": {
+        "value": "bottomCenter"
+      },
+      "indicatorPadding": {
+        "start": 0.0,
+        "top": 0.0,
+        "end": 0.0,
+        "bottom": 12.0
+      },
+      "numberAlignment": {
+        "value": "topEnd"
+      },
+      "numberPadding": {
+        "start": 0.0,
+        "top": 15.0,
+        "end": 0.0,
+        "bottom": 0.0
+      }
     },
-
+    {
+      "alignment": "topCenter",
+      "marginTop": 0.0,
+      "marginBottom": 20.0,
+      "enableBackground": false,
+      "items": [
+        {
+          "text": "Job Hub",
+          "backgroundColor": "#F6A623",
+          "textColor": "FF000000",
+          "width": 100.0,
+          "height": 35.0,
+          "borderRadius": 8.0,
+          "marginLeft": 40.0,
+          "marginRight": 40.0,
+          "textFontSize": 16.0,
+          "useMaxWidth": false,
+          "navigator": {
+            "key": "XsDJPHpgFY",
+            "tab_number": "4"
+          }
+        },
+        {
+          "text": "Events",
+          "backgroundColor": "#F6A623",
+          "textColor": "FF000000",
+          "width": 100.0,
+          "height": 35.0,
+          "borderRadius": 8.0,
+          "marginLeft": 40.0,
+          "marginRight": 40.0,
+          "textFontSize": 17.0,
+          "useMaxWidth": false,
+          "navigator": {
+            "key": "GRhYokosZq",
+            "tab_number": "3"
+          }
+        }
+      ],
+      "layout": "button"
+    },
     {
       "layout": "spacer",
       "height": 30
     },
-
     {
-      "category": "358",
-      "name": "المطاعم",
-      "layout": "largeCard",
+      "category": "",
+      "name": "Recent View",
+      "layout": "recentView",
       "isSnapping": false,
       "borderRadius": 3.0,
       "hMargin": 6.0,
@@ -777,37 +652,36 @@
       "useSort": false,
       "showCategory": false,
       "vMargin": 0.0,
-      "hPadding": 4.0,
-      "vPadding": 10.0,
-      "backgroundBoxFit": "cover",
+      "hPadding": 0.0,
+      "vPadding": 0.0,
       "cardDesign": "card",
-      "titleLine": 2,
-      "limit": 20,
-      "advancedParams": {},
+      "advancedParams": {
+      },
       "backgroundRadius": 10.0,
       "showCountDown": false,
       "onSale": false,
       "rows": 1,
-      "columns": 3,
+      "columns": 0,
       "imageRatio": 1.2,
       "imageBoxfit": "cover",
       "hidePrice": true,
       "hideStore": false,
       "hideTitle": false,
       "hideAddress": false,
+      "featured": false,
       "enableRating": true,
       "showStockStatus": true,
       "hideEmptyProductListRating": false,
       "showHeart": true,
-      "showProductCardCategory": false,
-      "showPhoneNumber": false,
+      "showProductCardCategory": true,
+      "showPhoneNumber": true,
       "showListingType": true,
       "showCartButton": false,
       "showCartIcon": true,
       "showCartIconColor": false,
       "cartIconRadius": 9.0,
       "showQuantity": false,
-      "enableBottomAddToCart": true,
+      "enableBottomAddToCart": false,
       "showOnlyImage": false,
       "showCartButtonWithQuantity": false,
       "cartButtonQuantitySize": 40.0,
@@ -815,14 +689,122 @@
       "parallaxImageRatio": 1.2,
       "hideEmptyProductLayout": false,
       "productListItemHeight": 125.0,
-      "enableAutoSliding": false
+      "enableAutoSliding": true,
+      "durationAutoSliding": 7,
+      "productType": false
     },
-
     {
       "layout": "spacer",
       "height": 30
     },
-
+    {
+      "name": "Recently Added",
+      "rows": 1,
+      "limit": 14,
+      "layout": "threeColumn",
+      "onSale": false,
+      "hideAddress": false,
+      "columns": 3,
+      "hMargin": 0,
+      "useSort": false,
+      "vMargin": 0,
+      "hPadding": 1,
+      "parallax": false,
+      "vPadding": 1,
+      "boxShadow": {
+        "x": 0,
+        "y": 2,
+        "blurRadius": 5,
+        "colorOpacity": 0.1,
+        "spreadRadius": 10
+      },
+      "hidePrice": true,
+      "hideStore": false,
+      "hideTitle": false,
+      "showHeart": true,
+      "titleLine": 2,
+      "cardDesign": "card",
+      "imageRatio": 1,
+      "isSnapping": false,
+      "imageBoxfit": "cover",
+      "borderRadius": 5,
+      "enableRating": true,
+      "showCartIcon": true,
+      "showCategory": true,
+      "showQuantity": false,
+      "showCountDown": false,
+      "showOnlyImage": false,
+      "advancedParams": {},
+      "cartIconRadius": 9,
+      "showCartButton": false,
+      "showStockStatus": true,
+      "backgroundRadius": 10,
+      "enableAutoSliding": false,
+      "showCartIconColor": false,
+      "useCircularRadius": true,
+      "parallaxImageRatio": 1,
+      "enableBottomAddToCart": true,
+      "productListItemHeight": 125,
+      "hideEmptyProductLayout": false,
+      "hideEmptyProductListRating": false,
+      "showCartButtonWithQuantity": false
+    },
+    {
+      "layout": "spacer",
+      "height": 30
+    },
+    {
+      "name": "Food & Dining",
+      "rows": 1,
+      "limit": 20,
+      "layout": "largeCard",
+      "hideAddress": false,
+      "onSale": false,
+      "columns": 3,
+      "hMargin": 6,
+      "useSort": false,
+      "vMargin": 0,
+      "category": "358",
+      "hPadding": 5,
+      "parallax": false,
+      "vPadding": 2,
+      "hidePrice": true,
+      "hideStore": false,
+      "hideTitle": false,
+      "showHeart": true,
+      "titleLine": 2,
+      "cardDesign": "card",
+      "imageRatio": 1.2,
+      "isSnapping": false,
+      "imageBoxfit": "cover",
+      "productType": false,
+      "borderRadius": 3,
+      "enableRating": true,
+      "showCartIcon": true,
+      "showCategory": false,
+      "showQuantity": false,
+      "showCountDown": false,
+      "showOnlyImage": false,
+      "advancedParams": {},
+      "cartIconRadius": 9,
+      "showCartButton": false,
+      "showStockStatus": true,
+      "backgroundBoxFit": "cover",
+      "backgroundRadius": 10,
+      "enableAutoSliding": false,
+      "showCartIconColor": false,
+      "useCircularRadius": true,
+      "parallaxImageRatio": 1.2,
+      "enableBottomAddToCart": true,
+      "productListItemHeight": 125,
+      "hideEmptyProductLayout": false,
+      "hideEmptyProductListRating": false,
+      "showCartButtonWithQuantity": false
+    },
+    {
+      "layout": "spacer",
+      "height": 30
+    },
     {
       "items": [],
       "layout": "button",
@@ -833,137 +815,124 @@
     },
     {
       "width": null,
-      "height": 180.0,
-      "clipBorderRadius": 8.0,
-      "delayStart": null,
+      "height": 180,
+      "layout": "animatedStackContainer",
       "margin": {
-        "top": 15.0,
-        "bottom": 15.0,
-        "start": 19.0,
-        "end": 15.0
+        "end": 15,
+        "top": 15,
+        "start": 15,
+        "bottom": 15
       },
-      "padding": {
-        "top": null,
-        "bottom": null,
-        "start": 0.0,
-        "end": 0.0
-      },
-      "background": {
-        "type": "background",
-        "color": "#1d2939",
-        "scripts": [],
-        "child": null,
-        "largeScreen": null,
-        "smallScreen": null
-      },
-      "decoration": null,
+      "fitBody": "loose",
+      "padding": null,
+      "autoPlay": true,
       "children": [
         {
           "type": "padding",
-          "padding": {
-            "top": 17.0,
-            "bottom": 17.0,
-            "start": 15.0,
-            "end": 130.0
-          },
           "child": {
+            "axis": "vertical",
             "type": "column",
+            "scripts": [],
             "children": [
               {
+                "text": "Have a business?",
                 "type": "text",
-                "text": "هل تريد أن ينمو عملك؟ ",
                 "scripts": [],
-                "actionConfig": null,
                 "largeScreen": null,
                 "smallScreen": null,
+                "actionConfig": null,
                 "textStyleConfig": {
-                  "styleSource": null,
+                  "maxLines": null,
+                  "minLines": null,
+                  "textAlign": null,
                   "customStyle": {
                     "color": {
                       "color": "#F6A623",
                       "runtimeType": "solid"
                     },
-                    "backgroundColor": null,
-                    "fontSize": 16.0,
-                    "fontWeight": "w600",
-                    "fontStyle": null,
-                    "letterSpacing": null,
-                    "wordSpacing": null,
                     "height": null,
                     "shadows": null,
+                    "fontSize": 16,
+                    "overflow": null,
+                    "fontStyle": null,
                     "decoration": null,
+                    "fontFamily": "Inter",
+                    "fontWeight": "w600",
+                    "wordSpacing": null,
+                    "letterSpacing": null,
+                    "backgroundColor": null,
                     "decorationColor": null,
                     "decorationStyle": null,
-                    "decorationThickness": null,
-                    "fontFamily": "Inter",
-                    "overflow": null
+                    "decorationThickness": null
                   },
+                  "styleSource": null,
                   "textOverflow": null,
-                  "maxLines": null,
-                  "minLines": null,
-                  "textAlign": null,
                   "containerConfig": null
                 }
               },
               {
                 "type": "sizedBox",
-                "width": null,
-                "height": 15.0,
                 "child": null,
+                "width": null,
+                "height": 15,
                 "scripts": [],
                 "largeScreen": null,
                 "smallScreen": {
                   "type": "sizedBox",
-                  "width": null,
-                  "height": 10.0,
                   "child": null,
+                  "width": null,
+                  "height": 10,
                   "scripts": [],
                   "largeScreen": null,
                   "smallScreen": null
                 }
               },
               {
+                "text": "Sign in and add your business \nto DaleelPro — it's free!",
                 "type": "text",
-                "text": "سجل الدخول وأضف عملك \nإلى دليل برو مجانا!",
                 "scripts": [],
-                "actionConfig": null,
                 "largeScreen": null,
                 "smallScreen": null,
+                "actionConfig": null,
                 "textStyleConfig": {
-                  "styleSource": "bodyLarge",
+                  "maxLines": null,
+                  "minLines": null,
+                  "textAlign": null,
                   "customStyle": {
                     "color": {
                       "color": "#FFFFFF",
                       "runtimeType": "solid"
                     }
                   },
+                  "styleSource": "bodyLarge",
                   "textOverflow": null,
-                  "maxLines": null,
-                  "minLines": null,
-                  "textAlign": null,
                   "containerConfig": null
                 }
               }
             ],
-            "crossAxisAlignment": "start",
-            "mainAxisAlignment": "start",
-            "mainAxisSize": "max",
-            "axis": "vertical",
-            "scripts": [],
             "largeScreen": null,
-            "smallScreen": null
+            "smallScreen": null,
+            "mainAxisSize": "max",
+            "mainAxisAlignment": "start",
+            "crossAxisAlignment": "start"
+          },
+          "padding": {
+            "end": 130,
+            "top": 17,
+            "start": 15,
+            "bottom": 17
           },
           "scripts": [
             {
               "type": "animation",
-              "duration": 600,
               "delay": 800,
+              "duration": 600,
+              "endState": {
+                "opacity": 1
+              },
               "curveType": "linear",
               "startState": {
-                "opacity": 0.0
-              },
-              "endState": {
-                "opacity": 1.0
+                "opacity": 0
               }
             }
           ],
@@ -974,136 +943,142 @@
           "type": "elevatedButton",
           "child": {
             "type": "padding",
-            "padding": {
-              "top": 10.0,
-              "bottom": 10.0,
-              "start": 20.0,
-              "end": 20.0
-            },
             "child": {
+              "text": "Sign In",
               "type": "text",
-              "text": "تسجيل",
               "scripts": [],
+              "largeScreen": null,
+              "smallScreen": null,
               "actionConfig": {
                 "key": "MhFxyRCpsk",
                 "tab_number": "6"
               },
-              "largeScreen": null,
-              "smallScreen": null,
               "textStyleConfig": {
-                "styleSource": null,
+                "maxLines": null,
+                "minLines": null,
+                "textAlign": null,
                 "customStyle": {
                   "color": {
                     "color": "#1d2939",
                     "runtimeType": "solid"
                   },
-                  "backgroundColor": null,
-                  "fontSize": 14.0,
-                  "fontWeight": "w600",
-                  "fontStyle": null,
-                  "letterSpacing": null,
-                  "wordSpacing": null,
                   "height": null,
                   "shadows": null,
+                  "fontSize": 14,
+                  "overflow": null,
+                  "fontStyle": null,
                   "decoration": null,
+                  "fontFamily": "Inter",
+                  "fontWeight": "w600",
+                  "wordSpacing": null,
+                  "letterSpacing": null,
+                  "backgroundColor": null,
                   "decorationColor": null,
                   "decorationStyle": null,
-                  "decorationThickness": null,
-                  "fontFamily": "Inter",
-                  "overflow": null
+                  "decorationThickness": null
                 },
+                "styleSource": null,
                 "textOverflow": null,
-                "maxLines": null,
-                "minLines": null,
-                "textAlign": null,
                 "containerConfig": null
               }
+            },
+            "padding": {
+              "end": 20,
+              "top": 10,
+              "start": 20,
+              "bottom": 10
             },
             "scripts": [],
             "largeScreen": null,
             "smallScreen": null
           },
+          "color": "#F6A623",
+          "style": null,
           "scripts": [
             {
-              "top": null,
-              "start": 20.0,
               "end": null,
-              "bottom": 10.0,
+              "top": null,
+              "start": 20,
+              "bottom": 10,
               "isFill": false
             },
             {
               "type": "animation",
-              "duration": 400,
               "delay": 1200,
+              "duration": 400,
+              "endState": {
+                "x": 0,
+                "y": 0
+              },
               "curveType": "linear",
               "startState": {
                 "x": -2,
                 "y": 0
-              },
-              "endState": {
-                "x":0,
-                "y": 0
               }
             }
           ],
-          "color": "#F6A623",
-          "style": null,
+          "elevation": null,
+          "largeScreen": null,
+          "minimumSize": null,
+          "smallScreen": null,
           "actionConfig": {
             "category": "152"
           },
-          "minimumSize": null,
-          "elevation": null,
-          "borderRadius": 30.0,
-          "largeScreen": null,
-          "smallScreen": null
+          "borderRadius": 30
         },
         {
           "type": "align",
-          "alignment": "centerLeft",
           "child": {
-            "type": "image",
-            "url": "https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Lst-17_Single-04-Photoroom-1.png",
             "fit": "cover",
+            "url": "https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Lst-17_Single-04-Photoroom-1.png",
+            "type": "image",
             "width": null,
             "height": null,
             "scripts": [],
-            "actionConfig": null,
             "largeScreen": null,
-            "smallScreen": null
+            "smallScreen": null,
+            "actionConfig": null
           },
           "scripts": [
             {
               "type": "animation",
-              "duration": 500,
               "delay": 100,
-              "curveType": "linear",
-              "startState": {
-                "x":2,
+              "duration": 500,
+              "endState": {
+                "x": 0,
                 "y": 0
               },
-              "endState": {
-                "x":0,
+              "curveType": "linear",
+              "startState": {
+                "x": 2,
                 "y": 0
               }
             }
           ],
+          "alignment": "centerRight",
           "largeScreen": null,
           "smallScreen": null
         }
       ],
-      "autoPlay": true,
+      "background": {
+        "type": "background",
+        "child": null,
+        "color": "#1d2939",
+        "scripts": [],
+        "largeScreen": null,
+        "smallScreen": null
+      },
+      "decoration": null,
+      "delayStart": null,
       "actionConfig": null,
-      "smallScreenMaxWidth": null,
+      "clipBorderRadius": 8,
       "largeScreenMinWidth": null,
-      "fitBody": "loose",
-      "layout": "animatedStackContainer"
+      "smallScreenMaxWidth": null
     },
-
     {
       "layout": "spacer",
       "height": 30
     }
-
   ],
   "Setting": {
     "AboutUS": "https://daleelpro.com/about-us/",
@@ -1252,7 +1227,7 @@
             }
           ],
           "layout": "category",
-          "hideAddress":false,
+          "hideAddress": false,
           "shadow": null,
           "columns": null,
           "marginX": 0,
@@ -1312,13 +1287,11 @@
   "TabBar": [
     {
       "key": "p1q235ba14",
-      "layout": "home",
-      "icon": "home",
-      "fontFamily": "CupertinoIcons",
-      "label": "الرئيسية",
       "pos": 100,
-      "visible": true,
-      "defaultTab": false,
+      "icon": "home",
+      "label": "Home",
+      "layout": "home",
+      "fontFamily": "CupertinoIcons",
       "fullscreen": false,
       "showOriginalColor": false
     },
@@ -1326,10 +1299,11 @@
       "key": "hwu0rkrizt",
       "pos": 200,
       "icon": "rectangle_grid_1x2",
-      "label": "الفئات",
+      "label": "Categories",
       "layout": "category",
       "visible": true,
       "parallax": false,
+      "defaultTab": false,
       "fontFamily": "CupertinoIcons",
       "fullscreen": false,
       "showQRCode": true,
@@ -1342,31 +1316,35 @@
       "key": "kgtFAOhQoa",
       "url": "https://daleelpro.com/eventsapp/",
       "icon": "calendar_badge_plus",
-      "label": "الاحداث",
-      "title": "الاحداث",
+      "label": "Events",
+      "title": "Events",
       "layout": "page",
       "fontFamily": "CupertinoIcons",
       "fullscreen": false,
       "enableForward": true,
       "enableBackward": true,
+      "enableClose": true,
       "showOriginalColor": false
     },
     {
       "key": "xJLlbcGJly",
       "url": "https://daleelpro.com/jobsapp/",
       "icon": "https://daleelpro.com/wp-content/uploads/2022/02/services_9656923-medium.png",
-      "label": "الوظائف",
-      "title": "دليل الوظائف",
+      "label": "Jobs",
+      "title": "Job Hub",
       "layout": "page",
+      "defaultTab": false,
       "fullscreen": false,
-      "showOriginalColor": false
+      "showOriginalColor": false,
+      "enableClose": true
     },
     {
       "key": "2reihs4qzc",
       "pos": 300,
       "icon": "search",
-      "label": "البحث",
+      "label": "Search",
       "layout": "search",
+      "defaultTab": false,
       "fontFamily": "CupertinoIcons",
       "fullscreen": false,
       "showQRCode": true,
@@ -1375,7 +1353,7 @@
     {
       "key": "sDLjUvoizw",
       "icon": "text_justifyleft",
-      "label": "المزيد",
+      "label": "More",
       "layout": "profile",
       "visible": true,
       "settings": [
@@ -1390,16 +1368,16 @@
         "web-ibtZCxbbyr"
       ],
       "styleItem": "flatListTile",
+      "defaultTab": false,
       "fontFamily": "CupertinoIcons",
       "fullscreen": false,
       "showBackground": true,
       "showOriginalColor": false,
       "subGeneralSetting": {
-
         "web-raDZEiSUof": {
           "id": "web-12",
           "icon": "slider_horizontal_3",
-          "title": "لوحة التحكم",
+          "title": "User Dashboard",
           "webUrl": "https://daleelpro.com/listing-author/",
           "buttons": [],
           "enableClose": true,
@@ -1413,23 +1391,23 @@
           "iconFontFamily": "CupertinoIcons",
           "buttonAlignment": "centerLeft"
         },
-        "web-ibtZCxbbyr":{
-          "id":"web-12",
-          "title":"الدردشة",
-          "icon":"bubble_left_bubble_right",
-          "iconFontFamily":"CupertinoIcons",
-          "webUrl":"https://tawk.to/chat/684ae8c94b5a53190afc4e18/1iti9ql3m",
-          "enableDivider":false,
-          "webViewMode":true,
-          "requiredLogin":false,
-          "enableForward":false,
-          "enableBackward":true,
-          "enableClose":true,
-          "buttonAlignment":"centerLeft",
-          "buttons":[],
-          "bannerHeight":15.0,
-          "screen":"home",
-          "useTabScreen":false
+        "web-ibtZCxbbyr": {
+          "id": "web-12",
+          "title": "Chat",
+          "icon": "bubble_left_bubble_right",
+          "iconFontFamily": "CupertinoIcons",
+          "webUrl": "https://tawk.to/chat/684ae8c94b5a53190afc4e18/1iti9ql3m",
+          "enableDivider": false,
+          "webViewMode": true,
+          "requiredLogin": false,
+          "enableForward": false,
+          "enableBackward": true,
+          "enableClose": true,
+          "buttonAlignment": "centerLeft",
+          "buttons": [],
+          "bannerHeight": 15.0,
+          "screen": "home",
+          "useTabScreen": false
         }
       }
     }
@@ -1447,62 +1425,45 @@
     ],
     "alwaysShowAppBar": false
   },
-
   "VerticalLayout": {
-    "name": "جميع الاقسام",
+    "name": "All Categories",
+    "rows": 1,
     "layout": "menuCustom",
-    "isSnapping": false,
-    "borderRadius": 4.0,
+    "onSale": false,
+    "columns": 2,
     "hMargin": 6.0,
-    "useCircularRadius": true,
     "useSort": false,
-    "showCategory": false,
     "vMargin": 0.0,
     "hPadding": 5.0,
+    "parallax": false,
     "vPadding": 0.0,
+    "hidePrice": true,
+    "hideStore": false,
+    "hideTitle": false,
+    "showHeart": true,
+    "titleLine": 2,
     "boxShadow": {
       "blurRadius": 5.0,
       "colorOpacity": 0.1,
       "spreadRadius": 10.0,
-      "x": 0.0,
-      "y": 6.0
+      "x": 0,
+      "y": 6
     },
     "cardDesign": "card",
-    "titleLine": 2,
-    "advancedParams": {},
-    "backgroundRadius": 10.0,
-    "showCountDown": false,
-    "onSale": false,
-    "rows": 1,
-    "columns": 2,
     "imageRatio": 1.2,
-    "imageBoxfit": "cover",
-    "hidePrice": true,
-    "hideStore": false,
-    "hideTitle": false,
+    "isSnapping": false,
+    "isVertical": true,
     "hideAddress": false,
+    "imageBoxfit": "cover",
+    "borderRadius": 4.0,
     "enableRating": true,
-    "showStockStatus": true,
-    "hideEmptyProductListRating": false,
-    "showHeart": true,
-    "showProductCardCategory": false,
-    "showPhoneNumber": true,
-    "showListingType": true,
-    "showCartButton": false,
     "showCartIcon": true,
-    "showCartIconColor": false,
-    "cartIconRadius": 9.0,
+    "showCategory": false,
     "showQuantity": false,
-    "enableBottomAddToCart": true,
+    "showCountDown": false,
     "showOnlyImage": false,
-    "showCartButtonWithQuantity": false,
-    "cartButtonQuantitySize": 40.0,
-    "parallax": false,
-    "parallaxImageRatio": 1.2,
-    "hideEmptyProductLayout": false,
-    "productListItemHeight": 125.0,
-    "enableAutoSliding": false,
-    "productType": false,
+    "advancedParams": {},
+    "cartIconRadius": 9.0,
     "categoryConfig": {
       "type": "icon",
       "wrap": false,
@@ -1520,7 +1481,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "الانشاءات",
+          "title": "Construction",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1540,7 +1501,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "الصحة والطب",
+          "title": "Health",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1560,7 +1521,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "خدمات السيارات",
+          "title": "Automotive",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1580,7 +1541,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "المطاعم",
+          "title": "Restaurants",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1600,7 +1561,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "الجمال",
+          "title": "Beauty",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1620,7 +1581,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "الخدمات",
+          "title": "Services",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1640,7 +1601,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "الفن والحرف",
+          "title": "Art & Craft",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1660,7 +1621,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "التعليم",
+          "title": "Education",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1680,7 +1641,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "التسوق",
+          "title": "Shopping",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1700,7 +1661,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "الخدمات القانونية",
+          "title": "Legal",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1720,7 +1681,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "العقارات",
+          "title": "Real Estate",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1740,7 +1701,7 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "تكنولوجيا",
+          "title": "Technology",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1760,7 +1721,27 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "خدمات اخرى",
+          "title": "Organizations",
+          "name": null,
+          "keepDefaultTitle": true,
+          "colors": null,
+          "image": null,
+          "tag": null,
+          "category": "1569",
+          "showDescription": true,
+          "productType": false,
+          "orderby": null,
+          "order": null,
+          "onSale": false,
+          "featured": false,
+          "showText": null,
+          "description": null,
+          "productListAnimationConfig": null
+        },
+        {
+          "originalColor": false,
+          "backgroundColor": null,
+          "title": "Others",
           "name": null,
           "keepDefaultTitle": true,
           "colors": null,
@@ -1793,14 +1774,31 @@
       "hideTitle": false,
       "originalColor": false,
       "noBackground": false,
-      "labelFontSize": 12.5,
+      "labelFontSize": 13.5,
       "animationConfig": null,
       "allowFilterMultipleCategory": false,
       "productCategoryMenuStyle": "menu",
       "categoryMenuShowDepth": false
     },
-    "shuffle": null,
-    "isVertical": true
+    "productType": true,
+    "showCartButton": false,
+    "showListingType": true,
+    "showPhoneNumber": true,
+    "showStockStatus": true,
+    "backgroundRadius": 10.0,
+    "enableAutoSliding": false,
+    "showCartIconColor": false,
+    "useCircularRadius": true,
+    "parallaxImageRatio": 1.2,
+    "enableBottomAddToCart": true,
+    "productListItemHeight": 125.0,
+    "cartButtonQuantitySize": 40.0,
+    "hideEmptyProductLayout": false,
+    "showProductCardCategory": true,
+    "hideEmptyProductListRating": false,
+    "showCartButtonWithQuantity": false,
+    "key": "DucblxUDbs",
+    "shuffle": null
   },
   "Background": {
     "key": "YVHbCFwuDH",
@@ -1810,7 +1808,6 @@
     "layout": "background",
     "scroll": true
   },
-
   "Drawer": {
     "logo": "https://daleelpro.com/wp-content/uploads/2024/12/Green-Modern-Marketing-Logo-2.png",
     "items": [
@@ -1869,22 +1866,20 @@
     "isOnlyShowOnFirstTime": true,
     "data": [
       {
-        "desc": "دليل هنا لخدمتك ",
+        "desc": "DaleelPro is hear to serve you. ",
         "image": "assets/images/splash1.jpg",
-        "title": "مرحبا بك في دليل"
+        "title": "Welcome to DaleelPro"
       },
       {
-        "desc":
-        "شاهد كل ما يحدث حولك بنقرة واحدة على هاتفك. سريع، مريح، وسهل.",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
         "image": "assets/images/splash2.jpg",
-        "title": "اتصل بالعالم المحيط"
+        "title": "Connect Surrounding World"
       },
       {
-        "desc": "هل لديك نشاط تجاري؟ سجّل دخولك الآن وأضفه مجاناً!",
+        "desc": "Have a business? Sign in now and add it for free!",
         "image": "assets/images/splash3.jpg",
-        "title": "لنبدأ"
+        "title": "Let's Get Started"
       }
     ]
-
   }
 }
