@@ -701,8 +701,8 @@
 
     {
       "name": "أضيف مؤخرا",
-      "layout": "threeColumn",
-      "hideAddress":false,
+      "layout": "twoColumn",
+      "hideAddress": false,
       "isSnapping": false,
       "borderRadius": 3.0,
       "hMargin": 0.6,
