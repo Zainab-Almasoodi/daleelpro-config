@@ -701,7 +701,7 @@
       "name": "Recently Added",
       "rows": 1,
       "limit": 14,
-      "layout": "threeColumn",
+      "layout": "twoColumn",
       "onSale": false,
       "hideAddress": false,
       "columns": 3,
