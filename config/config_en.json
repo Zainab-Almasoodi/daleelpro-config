@@ -1119,7 +1119,7 @@
         "notchMargin": 4,
         "floatingType": "circle"
       },
-      "bottomBarStyle": "slideEffect",
+      "bottomBarStyle": "static",
       "indicatorStyle": "none",
       "radiusTopRight": 0,
       "TabBarIndicator": {
