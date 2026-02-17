@@ -460,7 +460,7 @@
       "borderInput": false,
       "title": "One Stop for Everything You Need!",
       "type": "color",
-      "textColor": "#0f363f",
+      "textColor": "#fafafa",
       "alignment": "center",
       "fontWeight": 600,
       "fontSize": 23.0,
@@ -545,7 +545,7 @@
         },
         {
           "padding": 5.0,
-          "image": "https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Gen-03_Single-02-scaled.jpg",
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Gen-03_Single-02-removebg-preview.png",
           "showSubcategory": false,
           "bannerWithProduct": false,
           "defaultShowProduct": false,
