@@ -1,3 +1,4 @@
+
 {
   "HorizonLayout": [
     {
@@ -646,8 +647,8 @@
       "name":"تصفحت مؤخرا",
       "layout":"recentView",
       "isSnapping":false,
-      "borderRadius":0.3,
-      "hMargin":3.0,
+      "borderRadius":3.0,
+      "hMargin":9.0,
       "useCircularRadius":true,
       "useSort":false,
       "showCategory":true,
@@ -696,7 +697,7 @@
 
     {
       "layout": "spacer",
-      "height": 40
+      "height": 30
     },
 
     {
@@ -705,7 +706,7 @@
       "hideAddress": false,
       "isSnapping": false,
       "borderRadius": 3.0,
-      "hMargin": 0.9,
+      "hMargin": 0.6,
       "useCircularRadius": true,
       "useSort": false,
       "showCategory": true,
@@ -1388,6 +1389,7 @@
         "darkTheme",
         "rating",
         "about",
+        "privacy",
         "web-ibtZCxbbyr"
       ],
       "styleItem": "flatListTile",
@@ -1431,7 +1433,9 @@
           "bannerHeight":15.0,
           "screen":"home",
           "useTabScreen":false
-        }
+        },
+        "privacy":{
+          "webUrl":"https://daleelpro.com/privacy-policy/"}
       }
     }
   ],
