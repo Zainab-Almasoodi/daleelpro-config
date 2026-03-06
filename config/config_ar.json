@@ -1395,7 +1395,7 @@
       "styleItem": "flatListTile",
       "fontFamily": "CupertinoIcons",
       "fullscreen": false,
-      "showBackground": true,
+      "showBackground": false,
       "showOriginalColor": false,
       "subGeneralSetting": {
 
