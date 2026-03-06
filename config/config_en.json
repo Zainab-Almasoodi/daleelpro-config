@@ -1372,7 +1372,7 @@
       "defaultTab": false,
       "fontFamily": "CupertinoIcons",
       "fullscreen": false,
-      "showBackground": true,
+      "showBackground": false,
       "showOriginalColor": false,
       "subGeneralSetting": {
         "web-raDZEiSUof": {
