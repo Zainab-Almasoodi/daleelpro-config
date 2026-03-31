@@ -30,23 +30,48 @@
       "iconSpreadRadius": 0,
       "showNotification": true
     },
-    {
-      "fit": "fitWidth",
+     {
+      "layout":"bannerImage",
+"design":"swiper",
+"fit":"contain",
+"marginLeft":0.0,
       "items": [
         {
-          "key":"LIDdRqzGEB",
-          "type":"image",
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/app-main-banner-arr.jpg",
-          "video":"",
-          "products":[],
-          "enableForward":false,
-          "productLength":3,
-          "enableBackward":false,
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false
+          "key": "LIDdRqzGEB",
+          "type": "image",
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/app-main-banner-arr.jpg",
+          "video": "",
+          "products": [],
+          "enableForward": false,
+          "productLength": 3,
+          "enableBackward": false,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
         },
         
+        {
+"image":"https://daleelpro.com/wp-content/uploads/2026/03/sunlife-sport-e1774977234543-480x600.jpg",
+"showSubcategory":false,
+"bannerWithProduct":false,
+"defaultShowProduct":false,
+"video":"",
+"products":[],
+"productLength":3,
+"type":"image",
+"button":{
+"text":"Register Online",
+"backgroundColor":"FFFFB300",
+"textColor":"FF37474F",
+"fontFamily":"Roboto",
+"fontSize":20.0,
+"x":0.9,
+"y":0.5
+},
+"key":"GmVFoCSopN",
+"url_launch":"https://forms.office.com/r/izcgVgPCpL"
+},
+
 {
 "image":"https://daleelpro.com/wp-content/uploads/2024/12/7-medium.jpg",
 "showSubcategory":false,
@@ -96,63 +121,73 @@
 "key":"QOOXoNfAlq"
 },
         {
-          "type":"image",
-          "image":"https://daleelpro.com/wp-content/uploads/2024/12/daleelpro-ads.png",
-          "products":[],
-          "productLength":3,
-          "showSubcategory":false,
-          "bannerWithProduct":false,
-          "defaultShowProduct":false,
-          "enableBackward":false,
-          "enableForward":false,
-          "url":"https://daleelpro.com/contact/",
-          "key":"rhiBJamLki"
+          "type": "image",
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/daleelpro-ads.png",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "enableBackward": false,
+          "enableForward": false,
+          "url": "https://daleelpro.com/contact/",
+          "key": "rhiBJamLki"
         }
 
       ],
-      "design": "default",
-      "isBlur": false,
-      "layout": "bannerImage",
-      "radius": 2,
-      "padding": 0,
-      "autoPlay": true,
-      "isSlider": true,
-      "parallax": false,
-      "upHeight": 0,
-      "isSoundOn": false,
-      "marginTop": 0,
-      "marginLeft": 0,
-      "showNumber": false,
-      "marginRight": 0,
-      "intervalTime": 5,
-      "isHorizontal": false,
-      "marginBottom": 0,
-      "autoPlayVideo": true,
-      "numberPadding": {
-        "end": 0,
-        "top": 15,
-        "start": 0,
-        "bottom": 0
-      },
-      "showBackground": false,
-      "numberAlignment": {
-        "value": "topEnd"
-      },
-      "enableBackground": false,
-      "indicatorPadding": {
-        "end": 0,
-        "top": 0,
-        "start": 0,
-        "bottom": 12
-      },
-      "pageIndicatorType": "line",
-      "indicatorAlignment": {
-        "value": "bottomCenter"
-      },
-      "parallaxImageRatio": 1.2,
-      "enableTimeIndicator": true,
-      "doubleTapToFullScreen": false
-    },
+      "marginBottom":0.0,
+"height":0.25,
+"marginRight":0.0,
+"marginTop":0.0,
+"radius":0.0,
+"padding":0.0,
+"parallax":false,
+"parallaxImageRatio":1.2,
+"isHorizontal":false,
+"enableBackground":false,
+"indicatorAlignment":{
+"value":"bottomCenter"
+},
+"indicatorPadding":{
+"start":0.0,
+"top":0.0,
+"end":0.0,
+"bottom":12.0
+},
+"numberAlignment":{
+"value":"topEnd"
+},
+"numberPadding":{
+"start":0.0,
+"top":15.0,
+"end":0.0,
+"bottom":0.0
+},
+"isSlider":true,
+"autoPlay":true,
+"intervalTime":5,
+"showIndicator":true,
+"showNumber":false,
+"isBlur":false,
+"showBackground":false,
+"upHeight":0.0,
+"videoConfig":{
+"autoPlay":false,
+"aspectRatio":1.7777777777777777,
+"enableTimeIndicator":true,
+"tapToPlayPause":true,
+"holdToPlayPause":false,
+"isSoundOn":false,
+"doubleTapToFullScreen":false,
+"showVolumeButton":true,
+"showFullScreenButton":true,
+"enableLoop":false,
+"showLoading":false,
+"backgroundColor":null
+},
+"pageIndicatorType":"line"
+},
+    
     {
       "font": "Roboto",
       "type": "static",
