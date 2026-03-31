@@ -45,19 +45,6 @@
           "bannerWithProduct": false,
           "defaultShowProduct": false
         },
-        {
-          "type": "image",
-          "image": "https://daleelpro.com/wp-content/uploads/2024/12/daleelpro-ads.png",
-          "products": [],
-          "productLength": 3,
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "enableBackward": false,
-          "enableForward": false,
-          "url": "https://daleelpro.com/contact/",
-          "key": "rhiBJamLki"
-        },
 {
 "image":"https://daleelpro.com/wp-content/uploads/2024/12/7-medium.jpg",
 "showSubcategory":false,
@@ -105,7 +92,20 @@
 "type":"image",
 "product":"5088",
 "key":"QOOXoNfAlq"
-}
+},
+        {
+          "type": "image",
+          "image": "https://daleelpro.com/wp-content/uploads/2024/12/daleelpro-ads.png",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "enableBackward": false,
+          "enableForward": false,
+          "url": "https://daleelpro.com/contact/",
+          "key": "rhiBJamLki"
+        }
 
       ],
       "design": "default",
