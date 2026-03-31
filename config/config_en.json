@@ -48,28 +48,7 @@
           "bannerWithProduct": false,
           "defaultShowProduct": false
         },
-        {
-"image":"https://daleelpro.com/wp-content/uploads/2026/03/sunlife-sport-e1774977234543-480x600.jpg",
-"showSubcategory":false,
-"bannerWithProduct":false,
-"defaultShowProduct":false,
-"video":"",
-"products":[],
-"productLength":3,
-"type":"image",
-"button":{
-"text":"Register Online",
-"backgroundColor":"FFFFB300",
-"textColor":"FF37474F",
-"fontFamily":"Roboto",
-"fontSize":20.0,
-"x":0.9,
-"y":0.5
-},
-"key":"GmVFoCSopN",
-"url_launch":"https://forms.office.com/r/izcgVgPCpL"
-},
-
+        
         {
 "image":"https://daleelpro.com/wp-content/uploads/2026/03/sunlife-sport-e1774977234543-480x600.jpg",
 "showSubcategory":false,
