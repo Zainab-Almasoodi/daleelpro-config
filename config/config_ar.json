@@ -851,8 +851,336 @@
       "layout": "spacer",
       "height": 30
     },
+{
+"width":null,
+"height":260.0,
+"clipBorderRadius":8.0,
+"delayStart":null,
+"margin":{
+"top":15.0,
+"bottom":15.0,
+"start":15.0,
+"end":15.0
+},
+"padding":null,
+"background":{
+"type":"background",
+"color":"ff1d2939",
+"scripts":[],
+"child":null,
+"largeScreen":null,
+"smallScreen":null
+},
+"decoration":null,
+"children":[
+{
+"type":"padding",
+"padding":{
+"top":17.0,
+"bottom":17.0,
+"start":15.0,
+"end":130.0
+},
+"child":{
+"type":"column",
+"children":[
+{
+"type":"text",
+"text":"هل تمتلك مشروعا؟",
+"scripts":[],
+"actionConfig":null,
+"largeScreen":null,
+"smallScreen":null,
+"textStyleConfig":{
+"styleSource":null,
+"customStyle":{
+"color":{
+"color":"#fff6a623",
+"runtimeType":"solid"
+},
+"backgroundColor":null,
+"fontSize":16.0,
+"fontWeight":"w600",
+"fontStyle":null,
+"letterSpacing":null,
+"wordSpacing":null,
+"height":null,
+"shadows":null,
+"decoration":null,
+"decorationColor":null,
+"decorationStyle":null,
+"decorationThickness":null,
+"fontFamily":"Inter",
+"overflow":null
+},
+"textOverflow":null,
+"maxLines":null,
+"minLines":null,
+"textAlign":null,
+"containerConfig":null}
+},
+{
+"type":"sizedBox",
+"width":null,
+"height":15.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":{
+"type":"sizedBox",
+"width":null,
+"height":10.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null}
+},
+{
+"type":"text",
+"text":"سجل الدخول و اضف عملك \nالى دليل برو مجانا!",
+"scripts":[],
+"actionConfig":null,
+"largeScreen":null,
+"smallScreen":null,
+"textStyleConfig":{
+"styleSource":"bodyLarge",
+"customStyle":{
+"color":{
+"color":"#ffffffff",
+"runtimeType":"solid"
+},
+"backgroundColor":null,
+"fontSize":null,
+"fontWeight":null,
+"fontStyle":null,
+"letterSpacing":null,
+"wordSpacing":null,
+"height":null,
+"shadows":null,
+"decoration":null,
+"decorationColor":null,
+"decorationStyle":null,
+"decorationThickness":null,
+"fontFamily":null,
+"overflow":null
+},
+"textOverflow":null,
+"maxLines":3,
+"minLines":null,
+"textAlign":null,
+"containerConfig":null}
+},
+{
+"type":"sizedBox",
+"width":null,
+"height":15.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":{
+"type":"sizedBox",
+"width":null,
+"height":10.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null}
+},
+{
+"type":"text",
+"text":"1- تسجيل الدخول\n2- اضافة قائمة\n3- اختر الخطة\n4- اضف معلوماتك\n",
+"scripts":[],
+"actionConfig":null,
+"largeScreen":null,
+"smallScreen":null,
+"textStyleConfig":{
+"styleSource":"bodyLarge",
+"customStyle":{
+"color":{
+"color":"#ffffffff",
+"runtimeType":"solid"
+},
+"backgroundColor":null,
+"fontSize":null,
+"fontWeight":null,
+"fontStyle":null,
+"letterSpacing":null,
+"wordSpacing":null,
+"height":null,
+"shadows":null,
+"decoration":null,
+"decorationColor":null,
+"decorationStyle":null,
+"decorationThickness":null,
+"fontFamily":null,
+"overflow":null
+},
+"textOverflow":null,
+"maxLines":null,
+"minLines":null,
+"textAlign":null,
+"containerConfig":null}
+}
+],
+"crossAxisAlignment":"start",
+"mainAxisAlignment":"start",
+"mainAxisSize":"max",
+"axis":"vertical",
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null
+},
+"scripts":[
+{
+"type":"animation",
+"duration":600,
+"delay":800,
+"curveType":"linear",
+"startState":{
+"opacity":0.0
+},
+"endState":{
+"opacity":1.0}
+}
+],
+"largeScreen":null,
+"smallScreen":null
+},
+{
+"type":"elevatedButton",
+"child":{
+"type":"padding",
+"padding":{
+"top":10.0,
+"bottom":10.0,
+"start":16.0,
+"end":21.0
+},
+"child":{
+"type":"text",
+"text":"Sign In",
+"scripts":[],
+"actionConfig":{
+"key":"MhFxyRCpsk",
+"tab_number":"6"
+},
+"largeScreen":null,
+"smallScreen":null,
+"textStyleConfig":{
+"styleSource":null,
+"customStyle":{
+"color":{
+"color":"#ff1d2939",
+"runtimeType":"solid"
+},
+"backgroundColor":null,
+"fontSize":14.0,
+"fontWeight":"w600",
+"fontStyle":null,
+"letterSpacing":null,
+"wordSpacing":null,
+"height":null,
+"shadows":null,
+"decoration":null,
+"decorationColor":null,
+"decorationStyle":null,
+"decorationThickness":null,
+"fontFamily":"Inter",
+"overflow":null
+},
+"textOverflow":null,
+"maxLines":null,
+"minLines":null,
+"textAlign":null,
+"containerConfig":null}
+},
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null
+},
+"scripts":[
+{
+"top":null,
+"start":20.0,
+"end":null,
+"bottom":10.0,
+"isFill":false
+},
+{
+"type":"animation",
+"duration":400,
+"delay":1200,
+"curveType":"linear",
+"startState":{
+"x":-2.0,
+"y":0.0
+},
+"endState":{
+"x":0.0,
+"y":0.0}
+}
+],
+"color":"fff6a623",
+"style":null,
+"actionConfig":{
+"key":"KZnjDQHBCH",
+"tab":"profile"
+},
+"minimumSize":null,
+"elevation":null,
+"borderRadius":30.0,
+"largeScreen":null,
+"smallScreen":null
+},
+{
+"type":"padding",
+"padding":{
+"top":0.0,
+"bottom":0.0,
+"start":198.1,
+"end":0.0
+},
+"child":{
+"type":"custom",
+"config":{
+"type":"url",
+"data":"https://www.canva.com/design/DAHF3ULJHpY/FFF1q0wbgAz5ZQno38bflQ/watch",
+"height":260.0,
+"spacing":{
+"margin":null,
+"padding":{
+"start":0.0,
+"end":0.0,
+"top":0.0,
+"bottom":0.0}
+},
+"script":null,
+"layout":"webEmbed"
+},
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null
+},
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null
+}
+],
+"autoPlay":true,
+"actionConfig":null,
+"smallScreenMaxWidth":null,
+"largeScreenMinWidth":null,
+"fitBody":"loose",
+"layout":"animatedStackContainer"
+},
 
+   
     {
+      "layout": "spacer",
+      "height": 30
+    },
+
+   {
       "category": "358",
       "name": "المطاعم",
       "layout": "largeCard",
@@ -902,287 +1230,6 @@
       "hideEmptyProductLayout": false,
       "productListItemHeight": 125.0,
       "enableAutoSliding": false
-    },
-
-    {
-      "layout": "spacer",
-      "height": 30
-    },
-
-    {
-      "items": [],
-      "layout": "button",
-      "alignment": "topCenter",
-      "marginTop": 0,
-      "marginBottom": 0,
-      "enableBackground": false
-    },
-    {
-      "width": null,
-      "height": 180.0,
-      "clipBorderRadius": 8.0,
-      "delayStart": null,
-      "margin": {
-        "top": 15.0,
-        "bottom": 15.0,
-        "start": 19.0,
-        "end": 15.0
-      },
-      "padding": {
-        "top": null,
-        "bottom": null,
-        "start": 0.0,
-        "end": 0.0
-      },
-      "background": {
-        "type": "background",
-        "color": "#1d2939",
-        "scripts": [],
-        "child": null,
-        "largeScreen": null,
-        "smallScreen": null
-      },
-      "decoration": null,
-      "children": [
-        {
-          "type": "padding",
-          "padding": {
-            "top": 17.0,
-            "bottom": 17.0,
-            "start": 15.0,
-            "end": 130.0
-          },
-          "child": {
-            "type": "column",
-            "children": [
-              {
-                "type": "text",
-                "text": "هل تريد أن ينمو عملك؟ ",
-                "scripts": [],
-                "actionConfig": null,
-                "largeScreen": null,
-                "smallScreen": null,
-                "textStyleConfig": {
-                  "styleSource": null,
-                  "customStyle": {
-                    "color": {
-                      "color": "#F6A623",
-                      "runtimeType": "solid"
-                    },
-                    "backgroundColor": null,
-                    "fontSize": 16.0,
-                    "fontWeight": "w600",
-                    "fontStyle": null,
-                    "letterSpacing": null,
-                    "wordSpacing": null,
-                    "height": null,
-                    "shadows": null,
-                    "decoration": null,
-                    "decorationColor": null,
-                    "decorationStyle": null,
-                    "decorationThickness": null,
-                    "fontFamily": "Inter",
-                    "overflow": null
-                  },
-                  "textOverflow": null,
-                  "maxLines": null,
-                  "minLines": null,
-                  "textAlign": null,
-                  "containerConfig": null
-                }
-              },
-              {
-                "type": "sizedBox",
-                "width": null,
-                "height": 15.0,
-                "child": null,
-                "scripts": [],
-                "largeScreen": null,
-                "smallScreen": {
-                  "type": "sizedBox",
-                  "width": null,
-                  "height": 10.0,
-                  "child": null,
-                  "scripts": [],
-                  "largeScreen": null,
-                  "smallScreen": null
-                }
-              },
-              {
-                "type": "text",
-                "text": "سجل الدخول وأضف عملك \nإلى دليل برو مجانا!",
-                "scripts": [],
-                "actionConfig": null,
-                "largeScreen": null,
-                "smallScreen": null,
-                "textStyleConfig": {
-                  "styleSource": "bodyLarge",
-                  "customStyle": {
-                    "color": {
-                      "color": "#FFFFFF",
-                      "runtimeType": "solid"
-                    }
-                  },
-                  "textOverflow": null,
-                  "maxLines": null,
-                  "minLines": null,
-                  "textAlign": null,
-                  "containerConfig": null
-                }
-              }
-            ],
-            "crossAxisAlignment": "start",
-            "mainAxisAlignment": "start",
-            "mainAxisSize": "max",
-            "axis": "vertical",
-            "scripts": [],
-            "largeScreen": null,
-            "smallScreen": null
-          },
-          "scripts": [
-            {
-              "type": "animation",
-              "duration": 600,
-              "delay": 800,
-              "curveType": "linear",
-              "startState": {
-                "opacity": 0.0
-              },
-              "endState": {
-                "opacity": 1.0
-              }
-            }
-          ],
-          "largeScreen": null,
-          "smallScreen": null
-        },
-        {
-          "type": "elevatedButton",
-          "child": {
-            "type": "padding",
-            "padding": {
-              "top": 10.0,
-              "bottom": 10.0,
-              "start": 20.0,
-              "end": 20.0
-            },
-            "child": {
-              "type": "text",
-              "text": "تسجيل",
-              "scripts": [],
-              "actionConfig": {
-                "key": "MhFxyRCpsk",
-                "tab_number": "6"
-              },
-              "largeScreen": null,
-              "smallScreen": null,
-              "textStyleConfig": {
-                "styleSource": null,
-                "customStyle": {
-                  "color": {
-                    "color": "#1d2939",
-                    "runtimeType": "solid"
-                  },
-                  "backgroundColor": null,
-                  "fontSize": 14.0,
-                  "fontWeight": "w600",
-                  "fontStyle": null,
-                  "letterSpacing": null,
-                  "wordSpacing": null,
-                  "height": null,
-                  "shadows": null,
-                  "decoration": null,
-                  "decorationColor": null,
-                  "decorationStyle": null,
-                  "decorationThickness": null,
-                  "fontFamily": "Inter",
-                  "overflow": null
-                },
-                "textOverflow": null,
-                "maxLines": null,
-                "minLines": null,
-                "textAlign": null,
-                "containerConfig": null
-              }
-            },
-            "scripts": [],
-            "largeScreen": null,
-            "smallScreen": null
-          },
-          "scripts": [
-            {
-              "top": null,
-              "start": 20.0,
-              "end": null,
-              "bottom": 10.0,
-              "isFill": false
-            },
-            {
-              "type": "animation",
-              "duration": 400,
-              "delay": 1200,
-              "curveType": "linear",
-              "startState": {
-                "x": -2,
-                "y": 0
-              },
-              "endState": {
-                "x":0,
-                "y": 0
-              }
-            }
-          ],
-          "color": "#F6A623",
-          "style": null,
-          "actionConfig": {
-            "category": "152"
-          },
-          "minimumSize": null,
-          "elevation": null,
-          "borderRadius": 30.0,
-          "largeScreen": null,
-          "smallScreen": null
-        },
-        {
-          "type": "align",
-          "alignment": "centerLeft",
-          "child": {
-            "type": "image",
-            "url": "https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Lst-17_Single-04-Photoroom-1.png",
-            "fit": "cover",
-            "width": null,
-            "height": null,
-            "scripts": [],
-            "actionConfig": null,
-            "largeScreen": null,
-            "smallScreen": null
-          },
-          "scripts": [
-            {
-              "type": "animation",
-              "duration": 500,
-              "delay": 100,
-              "curveType": "linear",
-              "startState": {
-                "x":2,
-                "y": 0
-              },
-              "endState": {
-                "x":0,
-                "y": 0
-              }
-            }
-          ],
-          "largeScreen": null,
-          "smallScreen": null
-        }
-      ],
-      "autoPlay": true,
-      "actionConfig": null,
-      "smallScreenMaxWidth": null,
-      "largeScreenMinWidth": null,
-      "fitBody": "loose",
-      "layout": "animatedStackContainer"
     },
 
     {
