@@ -183,7 +183,7 @@
 "showBackground":false,
 "upHeight":0.0,
 "videoConfig":{
-"autoPlay":false,
+"autoPlay":true,
 "aspectRatio":1.7777777777777777,
 "enableTimeIndicator":true,
 "tapToPlayPause":true,
