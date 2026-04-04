@@ -994,7 +994,7 @@
 "largeScreen":null,
 "smallScreen":null,
 "textStyleConfig":{
-"styleSource":"bodyLarge",
+"styleSource":"bodyMedium",
 "customStyle":{
 "color":{
 "color":"#ffffffff",
@@ -1020,6 +1020,22 @@
 "minLines":null,
 "textAlign":null,
 "containerConfig":null}
+},
+{
+"type":"sizedBox",
+"width":null,
+"height":15.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":{
+"type":"sizedBox",
+"width":null,
+"height":10.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null}
 }
 ],
 "crossAxisAlignment":"start",
@@ -1174,7 +1190,6 @@
 "layout":"animatedStackContainer"
 },
 
-   
     {
       "layout": "spacer",
       "height": 30
