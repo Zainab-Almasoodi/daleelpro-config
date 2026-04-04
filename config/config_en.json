@@ -838,6 +838,341 @@
       "height": 30
     },
     {
+"items":[],
+"layout":"button",
+"alignment":"topCenter",
+"marginTop":0,
+"marginBottom":0,
+"enableBackground":false
+},
+{
+"width":null,
+"height":260.0,
+"clipBorderRadius":8.0,
+"delayStart":null,
+"margin":{
+"top":15.0,
+"bottom":15.0,
+"start":15.0,
+"end":15.0
+},
+"padding":null,
+"background":{
+"type":"background",
+"color":"ff1d2939",
+"scripts":[],
+"child":null,
+"largeScreen":null,
+"smallScreen":null
+},
+"decoration":null,
+"children":[
+{
+"type":"padding",
+"padding":{
+"top":17.0,
+"bottom":17.0,
+"start":15.0,
+"end":130.0
+},
+"child":{
+"type":"column",
+"children":[
+{
+"type":"text",
+"text":"Do you have a business?",
+"scripts":[],
+"actionConfig":null,
+"largeScreen":null,
+"smallScreen":null,
+"textStyleConfig":{
+"styleSource":null,
+"customStyle":{
+"color":{
+"color":"#fff6a623",
+"runtimeType":"solid"
+},
+"backgroundColor":null,
+"fontSize":17.0,
+"fontWeight":"w600",
+"fontStyle":null,
+"letterSpacing":null,
+"wordSpacing":null,
+"height":null,
+"shadows":null,
+"decoration":null,
+"decorationColor":null,
+"decorationStyle":null,
+"decorationThickness":null,
+"fontFamily":"Inter",
+"overflow":null
+},
+"textOverflow":null,
+"maxLines":null,
+"minLines":null,
+"textAlign":null,
+"containerConfig":null}
+},
+{
+"type":"sizedBox",
+"width":null,
+"height":15.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":{
+"type":"sizedBox",
+"width":null,
+"height":10.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null}
+},
+{
+"type":"text",
+"text":"Sign in and add your business \nto DaleelPro — it's free!",
+"scripts":[],
+"actionConfig":null,
+"largeScreen":null,
+"smallScreen":null,
+"textStyleConfig":{
+"styleSource":"bodyLarge",
+"customStyle":{
+"color":{
+"color":"#ffffffff",
+"runtimeType":"solid"
+},
+"backgroundColor":null,
+"fontSize":null,
+"fontWeight":null,
+"fontStyle":null,
+"letterSpacing":null,
+"wordSpacing":null,
+"height":null,
+"shadows":null,
+"decoration":null,
+"decorationColor":null,
+"decorationStyle":null,
+"decorationThickness":null,
+"fontFamily":null,
+"overflow":null
+},
+"textOverflow":null,
+"maxLines":null,
+"minLines":null,
+"textAlign":null,
+"containerConfig":null}
+},
+{
+"type":"sizedBox",
+"width":null,
+"height":15.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":{
+"type":"sizedBox",
+"width":null,
+"height":10.0,
+"child":null,
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null}
+},
+{
+"type":"text",
+"text":"1- Sign in\n2- Add Listing\n3- choose Plan\n4- Full your information\n",
+"scripts":[],
+"actionConfig":null,
+"largeScreen":null,
+"smallScreen":null,
+"textStyleConfig":{
+"styleSource":"bodyLarge",
+"customStyle":{
+"color":{
+"color":"#ffffffff",
+"runtimeType":"solid"
+},
+"backgroundColor":null,
+"fontSize":null,
+"fontWeight":null,
+"fontStyle":null,
+"letterSpacing":null,
+"wordSpacing":null,
+"height":null,
+"shadows":null,
+"decoration":null,
+"decorationColor":null,
+"decorationStyle":null,
+"decorationThickness":null,
+"fontFamily":null,
+"overflow":null
+},
+"textOverflow":null,
+"maxLines":null,
+"minLines":null,
+"textAlign":null,
+"containerConfig":null}
+}
+],
+"crossAxisAlignment":"start",
+"mainAxisAlignment":"start",
+"mainAxisSize":"max",
+"axis":"vertical",
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null
+},
+"scripts":[
+{
+"type":"animation",
+"duration":600,
+"delay":800,
+"curveType":"linear",
+"startState":{
+"opacity":0.0
+},
+"endState":{
+"opacity":1.0}
+}
+],
+"largeScreen":null,
+"smallScreen":null
+},
+{
+"type":"elevatedButton",
+"child":{
+"type":"padding",
+"padding":{
+"top":10.0,
+"bottom":10.0,
+"start":16.0,
+"end":21.0
+},
+"child":{
+"type":"text",
+"text":"Sign In",
+"scripts":[],
+"actionConfig":{
+"key":"MhFxyRCpsk",
+"tab_number":"6"
+},
+"largeScreen":null,
+"smallScreen":null,
+"textStyleConfig":{
+"styleSource":null,
+"customStyle":{
+"color":{
+"color":"#ff1d2939",
+"runtimeType":"solid"
+},
+"backgroundColor":null,
+"fontSize":14.0,
+"fontWeight":"w600",
+"fontStyle":null,
+"letterSpacing":null,
+"wordSpacing":null,
+"height":null,
+"shadows":null,
+"decoration":null,
+"decorationColor":null,
+"decorationStyle":null,
+"decorationThickness":null,
+"fontFamily":"Inter",
+"overflow":null
+},
+"textOverflow":null,
+"maxLines":null,
+"minLines":null,
+"textAlign":null,
+"containerConfig":null}
+},
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null
+},
+"scripts":[
+{
+"top":null,
+"start":20.0,
+"end":null,
+"bottom":10.0,
+"isFill":false
+},
+{
+"type":"animation",
+"duration":400,
+"delay":1200,
+"curveType":"linear",
+"startState":{
+"x":-2.0,
+"y":0.0
+},
+"endState":{
+"x":0.0,
+"y":0.0}
+}
+],
+"color":"fff6a623",
+"style":null,
+"actionConfig":{
+"key":"KZnjDQHBCH",
+"tab":"profile"
+},
+"minimumSize":null,
+"elevation":null,
+"borderRadius":30.0,
+"largeScreen":null,
+"smallScreen":null
+},
+{
+"type":"padding",
+"padding":{
+"top":0.0,
+"bottom":0.0,
+"start":240.0,
+"end":0.0
+},
+"child":{
+"type":"custom",
+"config":{
+"type":"url",
+"data":"https://www.canva.com/design/DAHF3ULJHpY/FFF1q0wbgAz5ZQno38bflQ/watch",
+"height":260.0,
+"spacing":{
+"margin":null,
+"padding":{
+"start":0.0,
+"end":0.0,
+"top":0.0,
+"bottom":0.0}
+},
+"script":null,
+"layout":"webEmbed"
+},
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null
+},
+"scripts":[],
+"largeScreen":null,
+"smallScreen":null
+}
+],
+"autoPlay":true,
+"actionConfig":null,
+"smallScreenMaxWidth":null,
+"largeScreenMinWidth":null,
+"fitBody":"loose",
+"layout":"animatedStackContainer"
+},
+   
+    {
+      "layout": "spacer",
+      "height": 30
+    },
+    {
       "name": "Food & Dining",
       "rows": 1,
       "limit": 20,
@@ -884,280 +1219,6 @@
       "hideEmptyProductLayout": false,
       "hideEmptyProductListRating": false,
       "showCartButtonWithQuantity": false
-    },
-    {
-      "layout": "spacer",
-      "height": 30
-    },
-    {
-      "items": [],
-      "layout": "button",
-      "alignment": "topCenter",
-      "marginTop": 0,
-      "marginBottom": 0,
-      "enableBackground": false
-    },
-    {
-      "width": null,
-      "height": 180,
-      "layout": "animatedStackContainer",
-      "margin": {
-        "end": 15,
-        "top": 15,
-        "start": 15,
-        "bottom": 15
-      },
-      "fitBody": "loose",
-      "padding": null,
-      "autoPlay": true,
-      "children": [
-        {
-          "type": "padding",
-          "child": {
-            "axis": "vertical",
-            "type": "column",
-            "scripts": [],
-            "children": [
-              {
-                "text": "Have a business?",
-                "type": "text",
-                "scripts": [],
-                "largeScreen": null,
-                "smallScreen": null,
-                "actionConfig": null,
-                "textStyleConfig": {
-                  "maxLines": null,
-                  "minLines": null,
-                  "textAlign": null,
-                  "customStyle": {
-                    "color": {
-                      "color": "#F6A623",
-                      "runtimeType": "solid"
-                    },
-                    "height": null,
-                    "shadows": null,
-                    "fontSize": 16,
-                    "overflow": null,
-                    "fontStyle": null,
-                    "decoration": null,
-                    "fontFamily": "Inter",
-                    "fontWeight": "w600",
-                    "wordSpacing": null,
-                    "letterSpacing": null,
-                    "backgroundColor": null,
-                    "decorationColor": null,
-                    "decorationStyle": null,
-                    "decorationThickness": null
-                  },
-                  "styleSource": null,
-                  "textOverflow": null,
-                  "containerConfig": null
-                }
-              },
-              {
-                "type": "sizedBox",
-                "child": null,
-                "width": null,
-                "height": 15,
-                "scripts": [],
-                "largeScreen": null,
-                "smallScreen": {
-                  "type": "sizedBox",
-                  "child": null,
-                  "width": null,
-                  "height": 10,
-                  "scripts": [],
-                  "largeScreen": null,
-                  "smallScreen": null
-                }
-              },
-              {
-                "text": "Sign in and add your business \nto DaleelPro — it's free!",
-                "type": "text",
-                "scripts": [],
-                "largeScreen": null,
-                "smallScreen": null,
-                "actionConfig": null,
-                "textStyleConfig": {
-                  "maxLines": null,
-                  "minLines": null,
-                  "textAlign": null,
-                  "customStyle": {
-                    "color": {
-                      "color": "#FFFFFF",
-                      "runtimeType": "solid"
-                    }
-                  },
-                  "styleSource": "bodyLarge",
-                  "textOverflow": null,
-                  "containerConfig": null
-                }
-              }
-            ],
-            "largeScreen": null,
-            "smallScreen": null,
-            "mainAxisSize": "max",
-            "mainAxisAlignment": "start",
-            "crossAxisAlignment": "start"
-          },
-          "padding": {
-            "end": 130,
-            "top": 17,
-            "start": 15,
-            "bottom": 17
-          },
-          "scripts": [
-            {
-              "type": "animation",
-              "delay": 800,
-              "duration": 600,
-              "endState": {
-                "opacity": 1
-              },
-              "curveType": "linear",
-              "startState": {
-                "opacity": 0
-              }
-            }
-          ],
-          "largeScreen": null,
-          "smallScreen": null
-        },
-        {
-          "type": "elevatedButton",
-          "child": {
-            "type": "padding",
-            "child": {
-              "text": "Sign In",
-              "type": "text",
-              "scripts": [],
-              "largeScreen": null,
-              "smallScreen": null,
-              "actionConfig": {
-                "key": "MhFxyRCpsk",
-                "tab_number": "6"
-              },
-              "textStyleConfig": {
-                "maxLines": null,
-                "minLines": null,
-                "textAlign": null,
-                "customStyle": {
-                  "color": {
-                    "color": "#1d2939",
-                    "runtimeType": "solid"
-                  },
-                  "height": null,
-                  "shadows": null,
-                  "fontSize": 14,
-                  "overflow": null,
-                  "fontStyle": null,
-                  "decoration": null,
-                  "fontFamily": "Inter",
-                  "fontWeight": "w600",
-                  "wordSpacing": null,
-                  "letterSpacing": null,
-                  "backgroundColor": null,
-                  "decorationColor": null,
-                  "decorationStyle": null,
-                  "decorationThickness": null
-                },
-                "styleSource": null,
-                "textOverflow": null,
-                "containerConfig": null
-              }
-            },
-            "padding": {
-              "end": 20,
-              "top": 10,
-              "start": 20,
-              "bottom": 10
-            },
-            "scripts": [],
-            "largeScreen": null,
-            "smallScreen": null
-          },
-          "color": "#F6A623",
-          "style": null,
-          "scripts": [
-            {
-              "end": null,
-              "top": null,
-              "start": 20,
-              "bottom": 10,
-              "isFill": false
-            },
-            {
-              "type": "animation",
-              "delay": 1200,
-              "duration": 400,
-              "endState": {
-                "x": 0,
-                "y": 0
-              },
-              "curveType": "linear",
-              "startState": {
-                "x": -2,
-                "y": 0
-              }
-            }
-          ],
-          "elevation": null,
-          "largeScreen": null,
-          "minimumSize": null,
-          "smallScreen": null,
-          "actionConfig": {
-            "category": "152"
-          },
-          "borderRadius": 30
-        },
-        {
-          "type": "align",
-          "child": {
-            "fit": "cover",
-            "url": "https://daleelpro.com/wp-content/uploads/2024/12/Wavy_Lst-17_Single-04-Photoroom-1.png",
-            "type": "image",
-            "width": null,
-            "height": null,
-            "scripts": [],
-            "largeScreen": null,
-            "smallScreen": null,
-            "actionConfig": null
-          },
-          "scripts": [
-            {
-              "type": "animation",
-              "delay": 100,
-              "duration": 500,
-              "endState": {
-                "x": 0,
-                "y": 0
-              },
-              "curveType": "linear",
-              "startState": {
-                "x": 2,
-                "y": 0
-              }
-            }
-          ],
-          "alignment": "centerRight",
-          "largeScreen": null,
-          "smallScreen": null
-        }
-      ],
-      "background": {
-        "type": "background",
-        "child": null,
-        "color": "#1d2939",
-        "scripts": [],
-        "largeScreen": null,
-        "smallScreen": null
-      },
-      "decoration": null,
-      "delayStart": null,
-      "actionConfig": null,
-      "clipBorderRadius": 8,
-      "largeScreenMinWidth": null,
-      "smallScreenMaxWidth": null
     },
     {
       "layout": "spacer",
