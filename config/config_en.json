@@ -893,7 +893,7 @@
 "runtimeType":"solid"
 },
 "backgroundColor":null,
-"fontSize":17.0,
+"fontSize":16.0,
 "fontWeight":"w600",
 "fontStyle":null,
 "letterSpacing":null,
@@ -931,7 +931,7 @@
 },
 {
 "type":"text",
-"text":"Sign in and add your business \nto DaleelPro — it's free!",
+"text":"Sign in & add your business\n — t's free!",
 "scripts":[],
 "actionConfig":null,
 "largeScreen":null,
@@ -959,7 +959,7 @@
 "overflow":null
 },
 "textOverflow":null,
-"maxLines":null,
+"maxLines":3,
 "minLines":null,
 "textAlign":null,
 "containerConfig":null}
@@ -1131,7 +1131,7 @@
 "padding":{
 "top":0.0,
 "bottom":0.0,
-"start":240.0,
+"start":198.1,
 "end":0.0
 },
 "child":{
@@ -1167,7 +1167,7 @@
 "fitBody":"loose",
 "layout":"animatedStackContainer"
 },
-   
+
     {
       "layout": "spacer",
       "height": 30
