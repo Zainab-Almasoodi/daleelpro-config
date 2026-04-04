@@ -1074,7 +1074,7 @@
 },
 "child":{
 "type":"text",
-"text":"Sign In",
+"text":"تسجيل الدخول",
 "scripts":[],
 "actionConfig":{
 "key":"MhFxyRCpsk",
